@@ -1,0 +1,137 @@
+{
+  "url": "https://getyourcheats.com/blogs",
+  "slug": "blogs",
+  "status": 200,
+  "title": "Cheat Guides Catalog | Aimbot, ESP & Wallhack",
+  "description": "Browse cheat comparison guides by game — aimbot, ESP, wallhack and spoofers with clear feature lists.",
+  "canonical": "https://getyourcheats.com/blogs/",
+  "ogTitle": "Cheat Guides Catalog | Aimbot, ESP &amp; Wallhack",
+  "ogDescription": "Browse cheat comparison guides by game — aimbot, ESP, wallhack and spoofers with clear feature lists.",
+  "h1": "Cheat Guides Catalog | Aimbot, ESP &amp; Wallhack",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Popular game cheats"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "More game cheats"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Featured cheat guides"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Additional titles"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Newest cheat listings"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Extra game cheats"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "About this cheat guides catalog"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "How to use the Cheat Guides Catalog for aimbot, ESP and wallhack research"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "What good aimbot and ESP pages should show"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Buying notes and status honesty"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Why this catalog exists"
+    },
+    {
+      "type": "paragraph",
+      "text": "This game cheats catalog lists aimbot, ESP, wallhack, and spoofer guides by title so you can choose your cheat with clear feature comparisons."
+    },
+    {
+      "type": "paragraph",
+      "text": "Call of Duty: Black Ops 7"
+    },
+    {
+      "type": "paragraph",
+      "text": "The Seven Deadly Sins"
+    },
+    {
+      "type": "paragraph",
+      "text": "Neverness to Everness"
+    },
+    {
+      "type": "paragraph",
+      "text": "ARK: Survival Ascended"
+    },
+    {
+      "type": "paragraph",
+      "text": "Snowbreak: Containment Zone"
+    },
+    {
+      "type": "paragraph",
+      "text": "This game cheats catalog is built for players who want clear, readable guides before they buy. Every listing focuses on practical tools people actually search for: aimbot tracking, ESP overlays, wallhack visibility, loot filters, trigger helpers, and HWID spoofer paths when a clean load is required after a hardware ban."
+    },
+    {
+      "type": "paragraph",
+      "text": "Instead of vague Discord screenshots, each product page explains what ships on the active build, how delivery works after payment, and how this offer compares with common market channels. That structure helps you choose a cheat with fewer surprises and fewer abandoned reseller accounts."
+    },
+    {
+      "type": "paragraph",
+      "text": "Start on this homepage, search for your title, then open the matching guide. Look for aimbot FOV and smoothing notes, ESP box or skeleton options, wallhack distance limits, stream-proof overlays, and whether a spoofer is included or sold separately. Those details matter more than marketing labels like “lifetime undetected.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "Popular shooters and survival games sit near the top of the grid so you can move quickly from catalog browsing into a full feature checklist. Related titles appear on each guide so you can compare similar builds without returning to a random storefront dump."
+    },
+    {
+      "type": "paragraph",
+      "text": "A useful aimbot section names bone priority, smooth aim, silent options, and FOV limits. A useful ESP or wallhack section names player boxes, health, distance, loot categories, and whether the overlay can stay hidden from capture software. When those points are missing, you are guessing from cropped images."
+    },
+    {
+      "type": "paragraph",
+      "text": "This catalog keeps those keywords on the page intentionally: game cheats catalog, aimbot, ESP, and wallhack appear in the title, heading, and body so searchers and readers land on the same topic. Buyer FAQs cover patch risk, delivery speed, and support paths in plain language."
+    },
+    {
+      "type": "paragraph",
+      "text": "Anti-cheat updates can change detection status overnight. Honest guides treat “undetected” as temporary and tell you to re-check status before every session. Instant delivery should mean license or loader access after payment clears — not waiting hours for a private message."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you already face a hardware ban, confirm the HWID spoofer path before the first launch. If you only need vision assistance, an ESP-focused tier can be enough. If you want aim assistance plus vision tools, pick a fuller pack and read the comparison ticks carefully."
+    },
+    {
+      "type": "paragraph",
+      "text": "Most people looking for game cheats waste time across Telegram sellers, cracked pastes, and storefronts that hide features until after checkout. Get Your Cheats centralizes title-by-title guides so aimbot, ESP, wallhack, and spoofer research stays on one domain with stable URLs that include the word cheats in the path."
+    },
+    {
+      "type": "paragraph",
+      "text": "Bookmark the homepage when you need a fast overview, then dive into Escape from Tarkov, DayZ, Rust, PUBG, The First Descendant, and dozens of other titles. New cheat guides are added as builds ship, and older paths redirect to the current /game-cheats/ URLs so links keep working."
+    },
+    {
+      "type": "paragraph",
+      "text": "Use the search field above to filter cards, open a guide, verify features, then checkout when the offer matches how you play. Clear documentation beats mystery links every time — especially for aimbot configs, ESP filters, and wallhack settings that affect how obvious a session looks."
+    }
+  ],
+  "mainHtml": "\n\n  <header class=\"top\">\n    <a class=\"brand\" href=\"/\" aria-label=\"Home\">\n      <img src=\"/images/logo-48.png?v=7\" alt=\"Get Your Cheats logo\" width=\"40\" height=\"40\"/>\n    </a>\n    <nav>\n      <a href=\"/\">Home</a>\n      <a class=\"nav-hide-sm\" href=\"/support\">Support</a>\n      <a class=\"nav-hide-sm\" href=\"/signin\">Sign In</a>\n      <a class=\"nav-cta\" href=\"/contact\">Contact</a>\n    </nav>\n  </header>\n</div></div></div><div><div class=\"relative flex items-center justify-center pointer-events-none\"><div class=\"w-full h-[240px] bg-center lg:w-[832px] lg:h-[636px] absolute top-[-55px] select-none bg-[url(&quot;/ui/spotlight.png&quot;)] bg-no-repeat bg-contain animate-spotlight-pulse z-10\"></div><div class=\"bg-[var(--page-color)] rounded-[100%] w-full lg:w-[931px] h-[282px] absolute -top-[200px] animate-spotlight-color transition-all duration-500 z-0\"></div><div class=\"bg-[#D9D9D9] bg-opacity-[3%] absolute inset-x-0 h-72 top-24 blur-[88px] select-none\"></div></div><div class=\"pt-8 lg:pt-10\"><div class=\"container mx-auto px-4 flex flex-col gap-[50px] lg:gap-[48px] items-center\"><div class=\"site-hero-stack w-full max-w-3xl flex flex-col items-center gap-12 md:gap-16\"><div class=\"site-hero-copy flex flex-col gap-2.5 items-center\"><h1 class=\"font-onest font-semibold bg-clip-text bg-gradient-to-r from-[#5D88FF] to-[#8560FF] drop-shadow-[0px_4px_4px_rgba(25,14,61,0.3)] text-center text-transparent text-[40px] md:text-5xl leading-[48px] md:leading-[56px]\">Cheat Guides Catalog | Aimbot, ESP &amp; Wallhack</h1><p class=\"font-medium font-onest text-[#ABB0C7] lg:text-xl drop-shadow-[0_4px_4px_rgba(25,14,61,0.30)] text-center\">This game cheats catalog lists aimbot, ESP, wallhack, and spoofer guides by title so you can choose your cheat with clear feature comparisons.</p></div></div><div class=\"site-search-row w-full grid grid-cols-2 sm:grid-cols-4 md:grid-cols-5 lg:grid-cols-6 gap-x-5 sm:gap-x-8 md:gap-x-6 lg:gap-x-8 gap-y-10\"><div class=\"flex flex-col gap-[30px] col-span-4 md:col-span-3 lg:col-span-2 md:col-start-2 lg:col-start-3\"><div class=\"flex flex-col gap-3\"><div class=\"flex flex-col gap-1.5\"></div><div class=\"relative flex flex-col z-0\"><div class=\"relative\"><input placeholder=\"Search\" data-size=\"small\" class=\"aria-[invalid=&quot;true&quot;]:border-red-500 text-white rounded-[10px] p-4 data-[size=small]:py-3 bg-[rgba(12,16,46,0.5)] border border-[#7C7AFE] hover:border-[#5A7DFB] focus:border-[#5A7DFB] leading-[2px] data-[size=small]:leading-[18px] text-base bg-[#0C102E] bg-opacity-50 shadow-[0px_4px_10px_0px_rgba(90,125,251,0.0),0px_-6px_8px_0px_rgba(255,255,255,0.10)_inset] hover:shadow-[0px_4px_10px_0px_rgba(90,125,251,0.0),0px_-6px_8px_0px_rgba(90,125,251,0.10)_inset] focus:shadow-[0px_4px_10px_0px_rgba(90,125,251,0.40),0px_-6px_8px_0px_rgba(90,125,251,0.10)_inset] font-light w-full outline-none transition-all duration-200 read-only:border-[#25224C] read-only:shadow-[0px_-6px_8px_0px_rgba(255,255,255,0.10)_inset] read-only:cursor-no-drop read-only:hover:border-[#25224C] read-only:focus:border-[#25224C] read-only:hover:shadow-[0px_-6px_8px_0px_rgba(255,255,255,0.10)_inset] read-only:focus:shadow-[0px_-6px_8px_0px_rgba(255,255,255,0.10)_inset] pl-16\" value=\"\"/><div class=\"absolute inset-y-0 pl-4 flex items-center justify-center\"><i class=\"font-rewarble-icons rewarble-icons-search-alt-2 icon-size-[18px] w-[18px]\"></i></div></div></div></div></div></div><div class=\"flex flex-col items-start sm:w-full gap-10\"><div class=\"flex flex-col gap-5 w-full\"><h2 class=\"font-onest text-xl font-semibold\">Popular game cheats</h2><div><div class=\"grid grid-cols-2 sm:grid-cols-4 md:grid-cols-5 lg:grid-cols-6 gap-x-5 sm:gap-x-8 md:gap-x-6 lg:gap-x-8 gap-y-10\"><a data-product-card class=\"w-full\" href=\"/escape-from-tarkov-cheats\" data-discover=\"true\"><div class=\"flex flex-col gap-2.5 transition-transform duration-300 group relative\"><div class=\"absolute inset-0 rounded-md filter blur-2xl ease-in-out cursor-pointer transition-opacity duration-300 opacity-0 bg-white/10 z-[-1] md:group-hover:opacity-100\"></div><div class=\"relative overflow-hidden rounded-md\"><img src=\"/cs/uploads/202508/phpollxon_split_escape_from_tarkov.jpg\" data-img=\"/cs/uploads/202508/phpollxon_split_escape_from_tarkov.jpg\" data-gif=\"/cs/uploads/202509/php16osmi_split_eft.gif\" alt=\"Escape from Tarkov\" loading=\"lazy\"><div class=\"absolute inset-0 rounded-md shadow-[inset_4px_6px_20px_0px_rgba(255,255,255,0.10)] pointer-events-none transition-opacity duration-1000 md:opacity-0 md:group-hover:opacity-100 md:shadow-[inset_0px_6px_20px_0px_rgba(255,255,255,0.20)]\"></div></div><p class=\"text-center text-[#E2E8FF]\">Escape from Tarkov</p></div></a><a data-product-card class=\"w-full\" href=\"/rust-cheats\" data-discover=\"true\"><div class=\"flex flex-col gap-2.5 transition-transform duration-300 group relative\"><div class=\"absolute inset-0 rounded-md filter blur-2xl ease-in-out cursor-pointer transition-opacity duration-300 opacity-0 bg-white/10 z-[-1] md:group-hover:opacity-100\"></div><div class=\"relative overflow-hidden rounded-md\"><img src=\"/cs/uploads/202508/phpzm4rtl_split_rust.jpg\" data-img=\"/cs/uploads/202508/phpzm4rtl_split_rust.jpg\" data-gif=\"/cs/uploads/202509/phpp8qrxe_split_rust.gif\" alt=\"RUST\" loading=\"lazy\"><div class=\"absolute inset-0 rounded-md shadow-[inset_4px_6px_20px_0px_rgba(255,255,255,0.10)] pointer-events-none transition-opacity duration-1000 md:opacity-0 md:group-hover:opacity-100 md:shadow-[inset_0px_6px_20px_0px_rgba(255,255,255,0.20)]\"></div></div><p class=\"text-center text-[#E2E8FF]\">RUST</p></div></a><a data-product-card class=\"w-full\" href=\"/dayz-cheats\" data-discover=\"true\"><div class=\"flex flex-col gap-2.5 transition-transform duration-300 group relative\"><div class=\"absolute inset-0 rounded-md filter blur-2xl ease-in-out cursor-pointer transition-opacity duration-300 opacity-0 bg-white/10 z-[-1] md:group-hover:opacity-100\"></div><div class=\"relative overflow-hidden rounded-md\"><img src=\"/cs/uploads/202508/phpwwohth_split_dayz_cheats.jpg\" data-img=\"/cs/uploads/202508/phpwwohth_split_dayz_cheats.jpg\" data-gif=\"/cs/uploads/202509/phpnttn2h_split_dayz.gif\" alt=\"DayZ\" loading=\"lazy\"><div class=\"absolute inset-0 rounded-md shadow-[inset_4px_6px_20px_0px_rgba(255,255,255,0.10)] pointer-events-none transition-opacity duration-1000 md:opacity-0 md:group-hover:opacity-100 md:shadow-[inset_0px_6px_20px_0px_rgba(255,255,255,0.20)]\"></div></div><p class=\"text-center text-[#E2E8FF]\">DayZ</p></div></a><a data-product-card class=\"w-full\" href=\"/pubg-cheats\" data-discover=\"true\"><div class=\"flex flex-col gap-2.5 transition-transform duration-300 group relative\"><div class=\"absolute inset-0 rounded-md filter blur-2xl ease-in-out cursor-pointer transition-opacity duration-300 opacity-0 bg-white/10 z-[-1] md:group-hover:opacity-100\"></div><div class=\"relative overflow-hidden rounded-md\"><img src=\"/cs/uploads/202508/phpjwcwon_split_pubg_cheats.jpg\" data-img=\"/cs/uploads/202508/phpjwcwon_split_pubg_cheats.jpg\" data-gif=\"/cs/uploads/202509/phpybio0q_split_pubg.gif\" alt=\"PUBG\" loading=\"lazy\"><div class=\"absolute inset-0 rounded-md shadow-[inset_4px_6px_20px_0px_rgba(255,255,255,0.10)] pointer-events-none transition-opacity duration-1000 md:opacity-0 md:group-hover:opacity-100 md:shadow-[inset_0px_6px_20px_0px_rgba(255,255,255,0.20)]\"></div></div><p class=\"text-center text-[#E2E8FF]\">PUBG</p></div></a><a data-product-card class=\"w-full\" href=\"/battlefield-6-cheats\" data-discover=\"true\"><div class=\"flex flex-col gap-2.5 transition-transform duration-300 group relative\"><div class=\"absolute inset-0 rounded-md filter blur-2xl ease-in-out cursor-pointer transition-opacity duration-300 opacity-0 bg-white/10 z-[-1] md:group-hover:opacity-100\"></div><div class=\"relative overflow-hidden rounded-md\"><img src=\"/cs/uploads/202512/phpnhvbo3_split_666.jpg\" data-img=\"/cs/uploads/202512/phpnhvbo3_split_666.jpg\" data-gif=\"/cs/uploads/202512/battlefield6.gif\" alt=\"Battlefield 6\" loading=\"lazy\"><div class=\"absolute inset-0 rounded-md shadow-[inset_4px_6px_20px_0px_rgba(255,255,255,0.10)] pointer-events-none transition-opacity duration-1000 md:opacity-0 md:group-hover:opacity-100 md:shadow-[inset_0px_6px_20px_0px_rgba(255,255,255,0.20)]\"></div></div><p class=\"text-center text-[#E2E8FF]\">Battlefield 6</p></div></a><a data-product-card class=\"w-full\" href=\"/koboom-cheats\" data-discover=\"true\"><div class=\"flex flex-col gap-2.5 transition-transform duration-300 group relative\"><div class=\"absolute inset-0 rounded-md filter blur-2xl ease-in-out cursor-pointer transition-opacity duration-300 opacity-0 bg-white/10 z-[-1] md:group-hover:opacity-100\"></div><div class=\"relative overflow-hidden rounded-md\"><img src=\"/cs/uploads/202510/phpb9urod_split_koboom_katalog.jpg\" data-img=\"/cs/uploads/202510/phpb9urod_split_koboom_katalog.jpg\" alt=\"KoBoom\" loading=\"lazy\"><div class=\"absolute inset-0 rounded-md shadow-[inset_4px_6px_20px_0px_rgba(255,255,255,0.10)] pointer-events-none transition-opacity duration-1000 md:opacity-0 md:group-hover:opacity-100 md:shadow-[inset_0px_6px_20px_0px_rgba(255,255,255,0.20)]\"></div></div><p class=\"text-center text-[#E2E8FF]\">KoBoom</p></div></a><a data-product-card class=\"w-full\" href=\"/call-of-duty-black-ops-7-cheats\" data-discover=\"true\"><div class=\"flex flex-col gap-2.5 transition-transform duration-300 group relative\"><div class=\"absolute inset-0 rounded-md filter blur-2xl ease-in-out cursor-pointer transition-opacity duration-300 opacity-0 bg-white/10 z-[-1] md:group-hover:opacity-100\"></div><div class=\"relative overflow-hidden rounded-md\"><img src=\"/cs/uploads/202510/phpj46zur_split_cod_bo7_katalog.jpg\" data-img=\"/cs/uploads/202510/phpj46zur_split_cod_bo7_katalog.jpg\" alt=\"Call of Duty: Black Ops 7\" loading=\"lazy\"><div class=\"absolute inset-0 rounded-md shadow-[inset_4px_6px_20px_0px_rgba(255,255,255,0.10)] pointer-events-none transition-opacity duration-1000 md:opacity-0 md:group-hover:opacity-100 md:shadow-[inset_0px_6px_20px_0px_rgba(255,255,255,0.20)]\"></div></div><p class=\"text-center text-[#E2E8FF]\">Call of Duty: Black Ops 7</p></div></a><a data-product-card class=\"w-full\" href=\"/roblox-cheats\" data-discover=\"true\"><div class=\"flex flex-col gap-2.5 transition-transform duration-300 group relative\"><div class=\"absolute inset-0 rounded-md filter blur-2xl ease-in-out cursor-pointer transition-opacity duration-300 opacity-0 bg-white/10 z-[-1] md:group-hover:opacity-100\"></div><div class=\"relative overflow-hidden rounded-md\"><img src=\"/cs/uploads/202510/phpyv8yck_split_roblox_katalog.jpg\" data-img=\"/cs/uploads/202510/phpyv8yck_split_roblox_katalog.jpg\" alt=\"Roblox\" loading=\"lazy\"><div class=\"absolute inset-0 rounded-md shadow-[inset_4px_6px_20px_0px_rgba(255,255,255,0.10)] pointer-events-none transition-opacity duration-1000 md:opacity-0 md:group-hover:opacity-100 md:shadow-[inset_0px_6px_20px_0px_rgba(255,255,255,0.20)]\"></div></div><p class=\"text-center text-[#E2E8FF]\">Roblox</p></div></a><a data-product-card class=\"w-full\" href=\"/duet-night-abyss-cheats\" data-discover=\"true\"><div class=\"flex flex-col gap-2.5 transition-transform duration-300 group relative\"><div class=\"absolute inset-0 rounded-md filter blur-2xl ease-in-out cursor-pointer transition-opacity duration-300 opacity-0 bg-white/10 z-[-1] md:group-hover:opacity-100\"></div><div class=\"relative overflow-hidden rounded-md\"><img src=\"/cs/uploads/202511/phpedzpb3_split_duet_katalog.jpg\" data-img=\"/cs/uploads/202511/phpedzpb3_split_duet_katalog.jpg\" alt=\"Duet Night Abyss\" loading=\"lazy\"><div class=\"absolute inset-0 rounded-md shadow-[inset_4px_6px_20px_0px_rgba(255,255,255,0.10)] pointer-events-none transition-opacity duration-1000 md:opacity-0 md:group-hover:opacity-100 md:shadow-[inset_0px_6px_20px_0px_rgba(255,255,255,0.20)]\"></div></div><p class=\"text-center text-[#E2E8FF]\">Duet Night Abyss</p></div></a><a data-product-card class=\"w-full\" href=\"/pioneers-of-pagonia-cheats\" data-discover=\"true\"><div class=\"flex flex-col gap-2.5 transition-transform duration-300 group relative\""
+}

@@ -1,0 +1,18 @@
+{
+  "url": "https://getyourcheats.com/contact",
+  "slug": "contact",
+  "status": 200,
+  "title": "Contact | Get Your Cheats Support",
+  "description": null,
+  "canonical": "https://getyourcheats.com/contact/",
+  "ogTitle": null,
+  "ogDescription": null,
+  "h1": "Contact",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Get in touch with us. You can also go back to the home page ."
+    }
+  ],
+  "mainHtml": "\n\n  <header class=\"top\">\n    <a class=\"brand\" href=\"/\" aria-label=\"Home\">\n      <img src=\"/images/logo-48.png?v=7\" alt=\"Get Your Cheats logo\" width=\"40\" height=\"40\"/>\n    </a>\n    <nav>\n      <a href=\"/\">Home</a>\n      <a class=\"nav-hide-sm\" href=\"/support\">Support</a>\n      <a class=\"nav-hide-sm\" href=\"/signin\">Sign In</a>\n      <a class=\"nav-cta\" href=\"/contact\">Contact</a>\n    </nav>\n  </header>\n\n  <div class=\"card\">\n    <h1>Contact</h1>\n    <p>Get in touch with us. You can also go back to the <a href=\"/\">home page</a>.</p>\n  </div>\n<script type=\"module\" src=\"https://static.cloudflareinsights.com/beacon.min.js/v31edd6df95cf4e85bb4c19e7a9bdbcba1788362987495\" integrity=\"sha512-iIg7k2xntmwu6/uSb5tpc/hySgZc4eoL31yB29W6tJFo2akwjPWcEqnCEdJvGexCL0KEQwVYv5BlowfhVz26hg==\" data-cf-beacon='{\"version\":\"2024.11.0\",\"token\":\"555de99e0fe449c4b5779f1f217bdfef\",\"r\":1,\"spa\":2}' crossorigin=\"anonymous\"></script>\n"
+}

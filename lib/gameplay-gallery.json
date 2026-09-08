@@ -1,0 +1,72 @@
+{
+  "escape-from-tarkov": [
+    "https://cdn.wh-satano.ru/eftauths7.webp",
+    "https://cdn.wh-satano.ru/covcheg-eft-s2.webp",
+    "https://cdn.wh-satano.ru/authority-eft-arena-menu.webp"
+  ],
+  "rust": [
+    "/satano/gameplay/rust-gameplay-1.webp",
+    "/satano/gameplay/rust-gameplay-2.webp"
+  ],
+  "dayz": [
+    "/satano/gameplay/dayz-gameplay-1.webp",
+    "/satano/gameplay/dayz-gameplay-2.webp",
+    "/satano/gameplay/dayz-gameplay-3.webp"
+  ],
+  "call-of-duty-black-ops-7": [
+    "/satano/gameplay/call-of-duty-black-ops-7-gameplay-1.webp",
+    "/satano/gameplay/call-of-duty-black-ops-7-gameplay-2.webp",
+    "/satano/gameplay/call-of-duty-black-ops-7-gameplay-3.webp"
+  ],
+  "marathon": [
+    "/satano/gameplay/marathon-gameplay-1.webp"
+  ],
+  "the-division-2": [
+    "/satano/gameplay/the-division-2-gameplay-1.webp",
+    "/satano/gameplay/the-division-2-gameplay-2.webp"
+  ],
+  "ark-survival-ascended": [
+    "/satano/gameplay/ark-survival-ascended-gameplay-1.webp"
+  ],
+  "mecha-break": [
+    "/satano/gameplay/mecha-break-gameplay-1.webp",
+    "/satano/gameplay/mecha-break-gameplay-2.webp",
+    "/satano/gameplay/mecha-break-gameplay-3.webp"
+  ],
+  "conan": [
+    "/satano/gameplay/conan-gameplay-1.webp",
+    "/satano/gameplay/conan-gameplay-2.webp",
+    "/satano/gameplay/conan-gameplay-3.webp"
+  ],
+  "gray-zone": [
+    "/satano/gameplay/gray-zone-gameplay-1.webp"
+  ],
+  "gray-zone-warfare": [
+    "/satano/gameplay/gray-zone-warfare-gameplay-1.webp"
+  ],
+  "bodycam": [
+    "/satano/gameplay/bodycam-gameplay-1.gif"
+  ],
+  "off-the-grid": [
+    "/satano/gameplay/off-the-grid-gameplay-1.webp",
+    "/satano/gameplay/off-the-grid-gameplay-2.webp",
+    "/satano/gameplay/off-the-grid-gameplay-3.webp"
+  ],
+  "marvel-rivals": [
+    "/satano/gameplay/marvel-rivals-gameplay-1.webp"
+  ],
+  "path-of-exile-2": [
+    "/satano/gameplay/path-of-exile-2-gameplay-1.webp",
+    "/satano/gameplay/path-of-exile-2-gameplay-2.webp"
+  ],
+  "arc-raiders": [
+    "/satano/gameplay/arc-raiders-gameplay-1.webp",
+    "/satano/gameplay/arc-raiders-gameplay-2.webp",
+    "/satano/gameplay/arc-raiders-gameplay-3.webp"
+  ],
+  "foxhole": [
+    "/satano/gameplay/foxhole-gameplay-1.webp",
+    "/satano/gameplay/foxhole-gameplay-2.webp",
+    "/satano/gameplay/foxhole-gameplay-3.webp"
+  ]
+}

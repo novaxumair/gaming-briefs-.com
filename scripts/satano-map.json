@@ -1,0 +1,740 @@
+[
+  {
+    "slug": "escape-from-tarkov",
+    "title": "Escape from Tarkov",
+    "satanoSlug": "escape_from_tarkov",
+    "satanoAlt": "Escape From Tarkov (EFT)",
+    "sourceUrl": "https://wh-satano.ru/storage/thumbnails/default/3x/lz/h18tyv8k84c0goo48o4oc.webp?p=eft.webp&s=s3",
+    "previousImage": "/cs/uploads/202508/phpollxon_split_escape_from_tarkov.jpg",
+    "local": "/satano/escape-from-tarkov.webp"
+  },
+  {
+    "slug": "rust",
+    "title": "RUST",
+    "satanoSlug": "rust",
+    "satanoAlt": "Rust",
+    "sourceUrl": "https://wh-satano.ru/storage/thumbnails/default/de/dx/49prg204cow0s00kcocw8.webp?p=rust-new.webp&s=s3",
+    "previousImage": "/cs/uploads/202508/phpzm4rtl_split_rust.jpg",
+    "local": "/satano/rust.webp"
+  },
+  {
+    "slug": "dayz",
+    "title": "DayZ",
+    "satanoSlug": "dayz",
+    "satanoAlt": "DayZ Standalone",
+    "sourceUrl": "https://wh-satano.ru/storage/thumbnails/default/d2/vg/hx9la08okgcow4wo40kwk.webp?p=dayz-sa.webp&s=s3",
+    "previousImage": "/cs/uploads/202508/phpwwohth_split_dayz_cheats.jpg",
+    "local": "/satano/dayz.webp"
+  },
+  {
+    "slug": "pubg",
+    "title": "PUBG",
+    "satanoSlug": "pybg",
+    "satanoAlt": "PUBG: Battlegrounds",
+    "sourceUrl": "https://wh-satano.ru/storage/thumbnails/default/3h/8x/o3hkkyg4ckowwk8k4co44.webp?p=pybg.webp&s=s3",
+    "previousImage": "/cs/uploads/202508/phpjwcwon_split_pubg_cheats.jpg",
+    "local": "/satano/pubg.webp"
+  },
+  {
+    "slug": "battlefield-6",
+    "title": "Battlefield 6",
+    "satanoSlug": "battlefield-6",
+    "satanoAlt": "Battlefield 6 (BF6)",
+    "sourceUrl": "https://wh-satano.ru/storage/thumbnails/default/49/m9/lwf2lco4c4404gsskg888.webp?p=battlefield-6.webp.webp&s=s3",
+    "previousImage": "/cs/uploads/202512/phpnhvbo3_split_666.jpg",
+    "local": "/satano/battlefield-6.webp"
+  },
+  {
+    "slug": "koboom",
+    "title": "KoBoom",
+    "satanoSlug": null,
+    "satanoAlt": null,
+    "sourceUrl": null,
+    "previousImage": "/cs/uploads/202510/phpb9urod_split_koboom_katalog.jpg",
+    "local": "/cs/uploads/202510/phpb9urod_split_koboom_katalog.jpg"
+  },
+  {
+    "slug": "call-of-duty-black-ops-7",
+    "title": "Call of Duty: Black Ops 7",
+    "satanoSlug": "cod-black-ops-7",
+    "satanoAlt": "Call of Duty Black Ops 7 (COD BO7)",
+    "sourceUrl": "https://wh-satano.ru/storage/thumbnails/default/51/rg/8avrkaccso8kck84ssg40.webp?p=bo7.webp&s=s3",
+    "previousImage": "/cs/uploads/202510/phpj46zur_split_cod_bo7_katalog.jpg",
+    "local": "/satano/call-of-duty-black-ops-7.webp"
+  },
+  {
+    "slug": "roblox",
+    "title": "Roblox",
+    "satanoSlug": null,
+    "satanoAlt": null,
+    "sourceUrl": null,
+    "previousImage": "/cs/uploads/202510/phpyv8yck_split_roblox_katalog.jpg",
+    "local": "/cs/uploads/202510/phpyv8yck_split_roblox_katalog.jpg"
+  },
+  {
+    "slug": "duet-night-abyss",
+    "title": "Duet Night Abyss",
+    "satanoSlug": "duet-night-abyss",
+    "satanoAlt": "Duet Night Abyss",
+    "sourceUrl": "https://wh-satano.ru/storage/thumbnails/default/23/y9/ngof3mkg0wko40okswgsc.webp?p=dna.webp&s=s3",
+    "previousImage": "/cs/uploads/202511/phpedzpb3_split_duet_katalog.jpg",
+    "local": "/satano/duet-night-abyss.webp"
+  },
+  {
+    "slug": "pioneers-of-pagonia",
+    "title": "Pioneers of Pagonia",
+    "satanoSlug": "pioner",
+    "satanoAlt": "Pioner",
+    "sourceUrl": "https://wh-satano.ru/storage/thumbnails/default/79/rw/zhjtg348sk8kkk880wkks.webp?p=pioner.webp&s=s3",
+    "previousImage": "/cs/uploads/202511/phpknyofl_split_pioner_katalog.jpg",
+    "local": "/satano/pioneers-of-pagonia.webp"
+  },
+  {
+    "slug": "team-fortress-2",
+    "title": "Team Fortress 2",
+    "satanoSlug": null,
+    "satanoAlt": null,
+    "sourceUrl": null,
+    "previousImage": "/cs/uploads/202512/phpix83xi_split_tf2_katalog.jpg",
+    "local": "/cs/uploads/202512/phpix83xi_split_tf2_katalog.jpg"
+  },
+  {
+    "slug": "brawlhalla",
+    "title": "Brawlhalla",
+    "satanoSlug": null,
+    "satanoAlt": null,
+    "sourceUrl": null,
+    "previousImage": "/cs/uploads/202512/phpl8mkbt_split_brawlh_katalog.jpg",
+    "local": "/cs/uploads/202512/phpl8mkbt_split_brawlh_katalog.jpg"
+  },
+  {
+    "slug": "hytale",
+    "title": "Hytale",
+    "satanoSlug": null,
+    "satanoAlt": null,
+    "sourceUrl": null,
+    "previousImage": "/cs/uploads/202601/php7vwjql_split_hytale_katalog.jpg",
+    "local": "/cs/uploads/202601/php7vwjql_split_hytale_katalog.jpg"
+  },
+  {
+    "slug": "megabonk",
+    "title": "Megabonk",
+    "satanoSlug": "megabonk",
+    "satanoAlt": "Megabonk",
+    "sourceUrl": "https://wh-satano.ru/storage/thumbnails/default/sr/z8/m8h24iswk4csoo0kocwo.webp?p=megabonk.webp&s=s3",
+    "previousImage": "/cs/uploads/202601/phpwwdbzc_split_megabonk_katalog.jpg",
+    "local": "/satano/megabonk.webp"
+  },
+  {
+    "slug": "company-of-heroes-3",
+    "title": "Company of Heroes 3",
+    "satanoSlug": null,
+    "satanoAlt": null,
+    "sourceUrl": null,
+    "previousImage": "/cs/uploads/202602/php2h4rd7_split_company_hero_katalog.jpg",
+    "local": "/cs/uploads/202602/php2h4rd7_split_company_hero_katalog.jpg"
+  },
+  {
+    "slug": "marathon",
+    "title": "Marathon",
+    "satanoSlug": "wardogs",
+    "satanoAlt": "WARDOGS",
+    "sourceUrl": "https://wh-satano.ru/storage/thumbnails/default/2e/wi/9r38lzy8c8wwgk4ok8kks.webp?p=war-dogs.webp&s=s3",
+    "previousImage": "/cs/uploads/202602/php9vf9cf_split_marathon_katalog.jpg",
+    "local": "/satano/marathon.webp"
+  },
+  {
+    "slug": "7-days-to-die",
+    "title": "7 Days to Die",
+    "satanoSlug": null,
+    "satanoAlt": null,
+    "sourceUrl": null,
+    "previousImage": "/cs/uploads/202602/phpbf8npx_split_katalog.jpg",
+    "local": "/cs/uploads/202602/phpbf8npx_split_katalog.jpg"
+  },
+  {
+    "slug": "humanitz",
+    "title": "HumanitZ",
+    "satanoSlug": "humanitz",
+    "satanoAlt": "HumanitZ",
+    "sourceUrl": "https://wh-satano.ru/storage/thumbnails/default/cy/49/vtdq6vk8o804g4gg88cgc.webp?p=humanitz.webp&s=s3",
+    "previousImage": "/cs/uploads/202602/phpiecrzz_split_katalog_humanitz.jpg",
+    "local": "/satano/humanitz.webp"
+  },
+  {
+    "slug": "the-division-2",
+    "title": "The Division 2",
+    "satanoSlug": "division2",
+    "satanoAlt": "Tom Clancy’s The Division 2",
+    "sourceUrl": "https://wh-satano.ru/storage/thumbnails/default/cm/ml/jqd1qagc8o4ogoc0g0gko.webp?p=division2.webp&s=s3",
+    "previousImage": "/cs/uploads/202603/php6fty7a_split_division2_katalog.jpg",
+    "local": "/satano/the-division-2.webp"
+  },
+  {
+    "slug": "russian-fishing-4",
+    "title": "Russian Fishing 4",
+    "satanoSlug": null,
+    "satanoAlt": null,
+    "sourceUrl": null,
+    "previousImage": "/cs/uploads/202603/phpwc8yi9_split_ru_fish_katalog.jpg",
+    "local": "/cs/uploads/202603/phpwc8yi9_split_ru_fish_katalog.jpg"
+  },
+  {
+    "slug": "the-seven-deadly-sins",
+    "title": "The Seven Deadly Sins",
+    "satanoSlug": "tsds-origin",
+    "satanoAlt": "The Seven Deadly Sins: Origin",
+    "sourceUrl": "https://wh-satano.ru/storage/thumbnails/default/1n/qs/s4hn24pww8k0c0o8wgcw4.webp?p=tsds.webp&s=s3",
+    "previousImage": "/cs/uploads/202605/php0tc0oy_split_the_seven_katalog.jpg",
+    "local": "/satano/the-seven-deadly-sins.webp"
+  },
+  {
+    "slug": "neverness-to-everness",
+    "title": "Neverness to Everness",
+    "satanoSlug": "neverness-to-everness",
+    "satanoAlt": "Neverness to Everness (NTE)",
+    "sourceUrl": "https://wh-satano.ru/storage/thumbnails/default/ns/2s/tyqthhwo8c4gocg804sw.webp?p=neverness.webp&s=s3",
+    "previousImage": "/cs/uploads/202605/php2bupsa_split_nte_katalog.jpg",
+    "local": "/satano/neverness-to-everness.webp"
+  },
+  {
+    "slug": "mongil-star-dive",
+    "title": "Mongil: Star Dive",
+    "satanoSlug": null,
+    "satanoAlt": null,
+    "sourceUrl": null,
+    "previousImage": "/cs/uploads/202605/phpff3kt5_split_mongil_katalog.jpg",
+    "local": "/cs/uploads/202605/phpff3kt5_split_mongil_katalog.jpg"
+  },
+  {
+    "slug": "windrose",
+    "title": "Windrose",
+    "satanoSlug": null,
+    "satanoAlt": null,
+    "sourceUrl": null,
+    "previousImage": "/cs/uploads/202605/phprgvl8p_split_windrose_katalog.jpg",
+    "local": "/cs/uploads/202605/phprgvl8p_split_windrose_katalog.jpg"
+  },
+  {
+    "slug": "ark-survival-ascended",
+    "title": "ARK: Survival Ascended",
+    "satanoSlug": "ark-ascended",
+    "satanoAlt": "Ark Survival Ascended",
+    "sourceUrl": "https://wh-satano.ru/storage/thumbnails/default/86/6p/2i4zcz0ogowcsg00woowg.webp?p=ark-ascended.webp&s=s3",
+    "previousImage": "/cs/uploads/202605/phpwnlutl_split_ark_endf_katalog.jpg",
+    "local": "/satano/ark-survival-ascended.webp"
+  },
+  {
+    "slug": "vostok",
+    "title": "Vostok",
+    "satanoSlug": null,
+    "satanoAlt": null,
+    "sourceUrl": null,
+    "previousImage": "/cs/uploads/202606/phpaivxiq_split_vostok_katalog.jpg",
+    "local": "/cs/uploads/202606/phpaivxiq_split_vostok_katalog.jpg"
+  },
+  {
+    "slug": "mecha-break",
+    "title": "Mecha BREAK",
+    "satanoSlug": "meccha-chameleon",
+    "satanoAlt": "Meccha Chameleon (Mecha)",
+    "sourceUrl": "https://wh-satano.ru/storage/thumbnails/default/e8/d2/9he255c8scos000ok844w.webp?p=chameleon.webp&s=s3",
+    "previousImage": "/cs/uploads/202607/phpjgwisf_split_meccha_chameleon_katalog.jpg",
+    "local": "/satano/mecha-break.webp"
+  },
+  {
+    "slug": "sand",
+    "title": "SAND",
+    "satanoSlug": "sand-raiders",
+    "satanoAlt": "SAND: Raiders of Sophie",
+    "sourceUrl": "https://wh-satano.ru/storage/thumbnails/default/a5/8s/svrt0kgg04o08gg44s80.webp?p=sand.webp&s=s3",
+    "previousImage": "/cs/uploads/202607/phpvd5yvv_split_sand_katalog.jpg",
+    "local": "/satano/sand.webp"
+  },
+  {
+    "slug": "cod-bocw",
+    "title": "Cod Bocw",
+    "satanoSlug": "cod-cheats",
+    "satanoAlt": "Call Of Duty (Warzone, MW, Black Ops, BO6, Modern Warfare, DMZ)",
+    "sourceUrl": "https://wh-satano.ru/storage/thumbnails/default/93/rp/14ps2lssokcgsg04owc4c.webp?p=cod.webp&s=s3",
+    "previousImage": "/cs/uploads/202402/phpsmx3fu_split_cod_bocw_katalog.jpg",
+    "local": "/satano/cod-bocw.webp"
+  },
+  {
+    "slug": "rocket",
+    "title": "Rocket",
+    "satanoSlug": null,
+    "satanoAlt": null,
+    "sourceUrl": null,
+    "previousImage": "/cs/uploads/202402/phpvudesf_split_rocket_katalog.jpg",
+    "local": "/cs/uploads/202402/phpvudesf_split_rocket_katalog.jpg"
+  },
+  {
+    "slug": "realm",
+    "title": "Realm",
+    "satanoSlug": null,
+    "satanoAlt": null,
+    "sourceUrl": null,
+    "previousImage": "/cs/uploads/202402/phpyqtrxu_split_realm_katalog.jpg",
+    "local": "/cs/uploads/202402/phpyqtrxu_split_realm_katalog.jpg"
+  },
+  {
+    "slug": "swbf",
+    "title": "Swbf",
+    "satanoSlug": null,
+    "satanoAlt": null,
+    "sourceUrl": null,
+    "previousImage": "/cs/uploads/202403/php48stkg_split_swbf_w_katalog.jpg",
+    "local": "/cs/uploads/202403/php48stkg_split_swbf_w_katalog.jpg"
+  },
+  {
+    "slug": "titanfall2",
+    "title": "Titanfall2",
+    "satanoSlug": null,
+    "satanoAlt": null,
+    "sourceUrl": null,
+    "previousImage": "/cs/uploads/202403/phpcwy2ac_split_titanfall2_katalog.jpg",
+    "local": "/cs/uploads/202403/phpcwy2ac_split_titanfall2_katalog.jpg"
+  },
+  {
+    "slug": "wows",
+    "title": "Wows",
+    "satanoSlug": null,
+    "satanoAlt": null,
+    "sourceUrl": null,
+    "previousImage": "/cs/uploads/202403/phpegxbxa_split_wows_katalog.jpg",
+    "local": "/cs/uploads/202403/phpegxbxa_split_wows_katalog.jpg"
+  },
+  {
+    "slug": "halo",
+    "title": "Halo",
+    "satanoSlug": null,
+    "satanoAlt": null,
+    "sourceUrl": null,
+    "previousImage": "/cs/uploads/202403/phpi8kcqr_split_halo_katalog.jpg",
+    "local": "/cs/uploads/202403/phpi8kcqr_split_halo_katalog.jpg"
+  },
+  {
+    "slug": "hd2",
+    "title": "Hd2",
+    "satanoSlug": null,
+    "satanoAlt": null,
+    "sourceUrl": null,
+    "previousImage": "/cs/uploads/202403/phpj51yc5_split_hd2_katalog.jpg",
+    "local": "/cs/uploads/202403/phpj51yc5_split_hd2_katalog.jpg"
+  },
+  {
+    "slug": "starship",
+    "title": "Starship",
+    "satanoSlug": null,
+    "satanoAlt": null,
+    "sourceUrl": null,
+    "previousImage": "/cs/uploads/202403/phprium9q_split_starship_katalog.jpg",
+    "local": "/cs/uploads/202403/phprium9q_split_starship_katalog.jpg"
+  },
+  {
+    "slug": "insurge",
+    "title": "Insurge",
+    "satanoSlug": "insurgency",
+    "satanoAlt": "Insurgency Sandstorm",
+    "sourceUrl": "https://wh-satano.ru/storage/thumbnails/default/7g/zs/q0i4hlgcgog448s44cg00.webp?p=insur.webp&s=s3",
+    "previousImage": "/cs/uploads/202403/phpukcgsn_split_insurge_katalog.jpg",
+    "local": "/satano/insurge.webp"
+  },
+  {
+    "slug": "moe",
+    "title": "Moe",
+    "satanoSlug": null,
+    "satanoAlt": null,
+    "sourceUrl": null,
+    "previousImage": "/cs/uploads/202403/phpvduniv_split_moe_katalog.jpg",
+    "local": "/cs/uploads/202403/phpvduniv_split_moe_katalog.jpg"
+  },
+  {
+    "slug": "six-day-ful",
+    "title": "Six Day Ful",
+    "satanoSlug": null,
+    "satanoAlt": null,
+    "sourceUrl": null,
+    "previousImage": "/cs/uploads/202404/php8sestf_split_six_day_ful_katalog.jpg",
+    "local": "/cs/uploads/202404/php8sestf_split_six_day_ful_katalog.jpg"
+  },
+  {
+    "slug": "tptr",
+    "title": "Tptr",
+    "satanoSlug": null,
+    "satanoAlt": null,
+    "sourceUrl": null,
+    "previousImage": "/cs/uploads/202404/phped53u3_split_tptr_katalog.jpg",
+    "local": "/cs/uploads/202404/phped53u3_split_tptr_katalog.jpg"
+  },
+  {
+    "slug": "atlas",
+    "title": "Atlas",
+    "satanoSlug": null,
+    "satanoAlt": null,
+    "sourceUrl": null,
+    "previousImage": "/cs/uploads/202404/phpl8tn9d_split_atlas_katalog.jpg",
+    "local": "/cs/uploads/202404/phpl8tn9d_split_atlas_katalog.jpg"
+  },
+  {
+    "slug": "isle",
+    "title": "Isle",
+    "satanoSlug": "the-isle",
+    "satanoAlt": "The Isle",
+    "sourceUrl": "https://wh-satano.ru/storage/thumbnails/default/7g/ab/1muahr8kw8o44cksc8c0k.webp?p=the-isle.webp&s=s3",
+    "previousImage": "/cs/uploads/202404/phpwwouuv_split_isle_katalog.jpg",
+    "local": "/satano/isle.webp"
+  },
+  {
+    "slug": "conan",
+    "title": "Conan",
+    "satanoSlug": "conan-exiles",
+    "satanoAlt": "Conan Exiles",
+    "sourceUrl": "https://wh-satano.ru/storage/thumbnails/default/2c/m5/r3cr5vr4kgowsckko8go4.webp?p=conan-exiles.webp&s=s3",
+    "previousImage": "/cs/uploads/202404/phpwyc3bn_split_conan_katalog.jpg",
+    "local": "/satano/conan.webp"
+  },
+  {
+    "slug": "wunthering",
+    "title": "Wunthering",
+    "satanoSlug": "wuthering-waves",
+    "satanoAlt": "Wuthering Waves",
+    "sourceUrl": "https://wh-satano.ru/storage/thumbnails/default/1l/ce/0lsszbtwsk4kog0gossco.webp?p=wuther.webp&s=s3",
+    "previousImage": "/cs/uploads/202405/php2qaa9d_split_wunthering_w_katalog.jpg",
+    "local": "/satano/wunthering.webp"
+  },
+  {
+    "slug": "wot-blitz",
+    "title": "Wot Blitz",
+    "satanoSlug": null,
+    "satanoAlt": null,
+    "sourceUrl": null,
+    "previousImage": "/cs/uploads/202405/phpkt8mmk_split_wot_blitz_katalog.jpg",
+    "local": "/cs/uploads/202405/phpkt8mmk_split_wot_blitz_katalog.jpg"
+  },
+  {
+    "slug": "gray-zone",
+    "title": "Gray Zone",
+    "satanoSlug": "gray_zone_warfare",
+    "satanoAlt": "Gray Zone Warfare (GZW)",
+    "sourceUrl": "https://wh-satano.ru/storage/thumbnails/default/ap/2v/6emfgow0kkssk04ksks4w.webp?p=gzw.webp&s=s3",
+    "previousImage": "/cs/uploads/202405/phpqmglss_split_gray_zone_katalog.jpg",
+    "local": "/satano/gray-zone.webp"
+  },
+  {
+    "slug": "chess",
+    "title": "Chess",
+    "satanoSlug": null,
+    "satanoAlt": null,
+    "sourceUrl": null,
+    "previousImage": "/cs/uploads/202405/phpyauzz2_split_chess_katalog_1.jpg",
+    "local": "/cs/uploads/202405/phpyauzz2_split_chess_katalog_1.jpg"
+  },
+  {
+    "slug": "gray-zone-warfare",
+    "title": "Gray Zone Warfare",
+    "satanoSlug": "gray_zone_warfare",
+    "satanoAlt": "Gray Zone Warfare (GZW)",
+    "sourceUrl": "https://wh-satano.ru/storage/thumbnails/default/ap/2v/6emfgow0kkssk04ksks4w.webp?p=gzw.webp&s=s3",
+    "previousImage": "/cs/uploads/202406/php9gpvpu_split_kkfos_katalog.jpg",
+    "local": "/satano/gray-zone-warfare.webp"
+  },
+  {
+    "slug": "bodycam",
+    "title": "Bodycam",
+    "satanoSlug": "bodycam",
+    "satanoAlt": "BODYCAM",
+    "sourceUrl": "https://wh-satano.ru/storage/thumbnails/default/2q/u3/qof3tnggkg084gs8so8w4.webp?p=bodycam.webp&s=s3",
+    "previousImage": "/cs/uploads/202406/phpasc04g_split_bodycam_katalog.jpg",
+    "local": "/satano/bodycam.webp"
+  },
+  {
+    "slug": "once-human",
+    "title": "Once Human",
+    "satanoSlug": null,
+    "satanoAlt": null,
+    "sourceUrl": null,
+    "previousImage": "/cs/uploads/202406/phpdyqm3l_split_once_humen_katalogn.jpg",
+    "local": "/cs/uploads/202406/phpdyqm3l_split_once_humen_katalogn.jpg"
+  },
+  {
+    "slug": "l33t-ragemp",
+    "title": "L33T RageMP",
+    "satanoSlug": null,
+    "satanoAlt": null,
+    "sourceUrl": null,
+    "previousImage": "/cs/uploads/202406/phpg0a1s2_split_l33t_katalog.jpg",
+    "local": "/cs/uploads/202406/phpg0a1s2_split_l33t_katalog.jpg"
+  },
+  {
+    "slug": "predecessor",
+    "title": "Predecessor",
+    "satanoSlug": null,
+    "satanoAlt": null,
+    "sourceUrl": null,
+    "previousImage": "/cs/uploads/202406/phpwavqqx_split_predecessor_katalogh.jpg",
+    "local": "/cs/uploads/202406/phpwavqqx_split_predecessor_katalogh.jpg"
+  },
+  {
+    "slug": "the-first-descendant",
+    "title": "The First Descendant",
+    "satanoSlug": "the_first_descendant",
+    "satanoAlt": "The First Descendant (TFD)",
+    "sourceUrl": "https://wh-satano.ru/storage/thumbnails/default/1s/j4/ekq344g0sk0wkcckkgogk.webp?p=tfd.webp&s=s3",
+    "previousImage": "/cs/uploads/202407/phpxg3qdp_split_tfd_katalog.jpg",
+    "local": "/satano/the-first-descendant.webp"
+  },
+  {
+    "slug": "zenless-zone-zero",
+    "title": "Zenless Zone Zero",
+    "satanoSlug": "zenless-zone-zero",
+    "satanoAlt": "Zenless Zone Zero (ZZZ)",
+    "sourceUrl": "https://wh-satano.ru/storage/thumbnails/default/5d/d8/gznnowsgg8k4wg8og0ogk.webp?p=zzz.webp&s=s3",
+    "previousImage": "/cs/uploads/202407/phpys5xq0_split_zenless_zone_zero_katalog1.jpg",
+    "local": "/satano/zenless-zone-zero.webp"
+  },
+  {
+    "slug": "deadlock",
+    "title": "Deadlock",
+    "satanoSlug": "deadlock",
+    "satanoAlt": "Deadlock",
+    "sourceUrl": "https://wh-satano.ru/storage/thumbnails/default/ai/wh/65ov32o8gc80sgwkocw0k.webp?p=deadlock-new.webp&s=s3",
+    "previousImage": "/cs/uploads/202408/phptsq9ok_split_deadlock_katalog.jpg",
+    "local": "/satano/deadlock.webp"
+  },
+  {
+    "slug": "sa-mp",
+    "title": "SA-MP",
+    "satanoSlug": null,
+    "satanoAlt": null,
+    "sourceUrl": null,
+    "previousImage": "/cs/uploads/202408/phpu46ji2_split_samp_katalog.jpg",
+    "local": "/cs/uploads/202408/phpu46ji2_split_samp_katalog.jpg"
+  },
+  {
+    "slug": "duckside",
+    "title": "Duckside",
+    "satanoSlug": null,
+    "satanoAlt": null,
+    "sourceUrl": null,
+    "previousImage": "/cs/uploads/202410/php0cpa1e_split_duckside_katalog.jpg",
+    "local": "/cs/uploads/202410/php0cpa1e_split_duckside_katalog.jpg"
+  },
+  {
+    "slug": "snowbreak-containment-zone",
+    "title": "Snowbreak: Containment Zone",
+    "satanoSlug": "snowbreak-containment-zone",
+    "satanoAlt": "Snowbreak: Containment Zone",
+    "sourceUrl": "https://wh-satano.ru/storage/thumbnails/default/d7/qs/5rsybc0gooc0s8k0088s4.webp?p=snowbreak-containment-zone.webp&s=s3",
+    "previousImage": "/cs/uploads/202410/php2htyon_split_snowbreak_katalog.jpg",
+    "local": "/satano/snowbreak-containment-zone.webp"
+  },
+  {
+    "slug": "level-zero",
+    "title": "Level Zero",
+    "satanoSlug": null,
+    "satanoAlt": null,
+    "sourceUrl": null,
+    "previousImage": "/cs/uploads/202410/phpcgv1cq_split_level_zero_ext_katalog.jpg",
+    "local": "/cs/uploads/202410/phpcgv1cq_split_level_zero_ext_katalog.jpg"
+  },
+  {
+    "slug": "off-the-grid",
+    "title": "Off the Grid",
+    "satanoSlug": "off_the_grid",
+    "satanoAlt": "Off The Grid",
+    "sourceUrl": "https://wh-satano.ru/storage/thumbnails/default/c7/cn/okp0sm0c4gccgo0o40wkk.webp?p=otg.webp&s=s3",
+    "previousImage": "/cs/uploads/202410/phpchz5bw_split_off_the_grid_katalog.jpg",
+    "local": "/satano/off-the-grid.webp"
+  },
+  {
+    "slug": "black-desert-mobile",
+    "title": "Black Desert Mobile",
+    "satanoSlug": null,
+    "satanoAlt": null,
+    "sourceUrl": null,
+    "previousImage": "/cs/uploads/202410/phphd96eq_split_blaack_desert_mob_katalog.jpg",
+    "local": "/cs/uploads/202410/phphd96eq_split_blaack_desert_mob_katalog.jpg"
+  },
+  {
+    "slug": "diablo-iv",
+    "title": "Diablo IV",
+    "satanoSlug": null,
+    "satanoAlt": null,
+    "sourceUrl": null,
+    "previousImage": "/cs/uploads/202410/phpk3lt16_split_diablo_4_katalog.jpg",
+    "local": "/cs/uploads/202410/phpk3lt16_split_diablo_4_katalog.jpg"
+  },
+  {
+    "slug": "tarisland",
+    "title": "Tarisland",
+    "satanoSlug": null,
+    "satanoAlt": null,
+    "sourceUrl": null,
+    "previousImage": "/cs/uploads/202410/phpshkugi_split_tarisland_katalog.jpg",
+    "local": "/cs/uploads/202410/phpshkugi_split_tarisland_katalog.jpg"
+  },
+  {
+    "slug": "ea-sports-fc",
+    "title": "EA Sports FC",
+    "satanoSlug": null,
+    "satanoAlt": null,
+    "sourceUrl": null,
+    "previousImage": "/cs/uploads/202410/phpvernbu_split_ea_fc_all_katalog.jpg",
+    "local": "/cs/uploads/202410/phpvernbu_split_ea_fc_all_katalog.jpg"
+  },
+  {
+    "slug": "honor-of-kings",
+    "title": "Honor of Kings",
+    "satanoSlug": null,
+    "satanoAlt": null,
+    "sourceUrl": null,
+    "previousImage": "/cs/uploads/202410/phpwdcazd_split_honor_of_king_katalog.jpg",
+    "local": "/cs/uploads/202410/phpwdcazd_split_honor_of_king_katalog.jpg"
+  },
+  {
+    "slug": "maplestory-m",
+    "title": "MapleStory M",
+    "satanoSlug": null,
+    "satanoAlt": null,
+    "sourceUrl": null,
+    "previousImage": "/cs/uploads/202410/phpzqy4ix_split_maplestorym_katalog.jpg",
+    "local": "/cs/uploads/202410/phpzqy4ix_split_maplestorym_katalog.jpg"
+  },
+  {
+    "slug": "marvel-rivals",
+    "title": "Marvel Rivals",
+    "satanoSlug": "marvel_rivals",
+    "satanoAlt": "Marvel Rivals",
+    "sourceUrl": "https://wh-satano.ru/storage/thumbnails/default/34/0r/5uewcfms0goo84oswwwck.webp?p=marvel.webp&s=s3",
+    "previousImage": "/cs/uploads/202412/phpxtb9jl_split_marverl_katalog.jpg",
+    "local": "/satano/marvel-rivals.webp"
+  },
+  {
+    "slug": "left-4-dead-2",
+    "title": "Left 4 Dead 2",
+    "satanoSlug": "l4d2",
+    "satanoAlt": "Left 4 Dead 2 (L4D2)",
+    "sourceUrl": "https://wh-satano.ru/storage/thumbnails/default/1l/vw/kydgzjj4oscscgwwk0gsc.webp?p=l4d2.webp&s=s3",
+    "previousImage": "/cs/uploads/202501/phpgufwbu_split_l4d2_katalog.jpg",
+    "local": "/satano/left-4-dead-2.webp"
+  },
+  {
+    "slug": "arma-reforger",
+    "title": "Arma Reforger",
+    "satanoSlug": "arma-reforger",
+    "satanoAlt": "Arma Reforger",
+    "sourceUrl": "https://wh-satano.ru/storage/thumbnails/default/1z/zf/zss5hm4kgsco4wwg4k48o.webp?p=arma-reforger.webp&s=s3",
+    "previousImage": "/cs/uploads/202502/phpkajsur_split_arma_refor_katalog.jpg",
+    "local": "/satano/arma-reforger.webp"
+  },
+  {
+    "slug": "cs-1-6",
+    "title": "CS 1.6",
+    "satanoSlug": "cs",
+    "satanoAlt": "CS 1.6",
+    "sourceUrl": "https://wh-satano.ru/storage/thumbnails/default/ed/5n/bbl9fugwc0cowcs888ww8.webp?p=cs16.webp&s=s3",
+    "previousImage": "/cs/uploads/202502/phpombgvj_split_cs16_katalog.jpg",
+    "local": "/satano/cs-1-6.webp"
+  },
+  {
+    "slug": "fragpunk",
+    "title": "FragPunk",
+    "satanoSlug": "fragpunk",
+    "satanoAlt": "FragPunk",
+    "sourceUrl": "https://wh-satano.ru/storage/thumbnails/default/30/lt/3mdbqgu8o4cgcscsoc4w8.webp?p=fragpunk.webp&s=s3",
+    "previousImage": "/cs/uploads/202503/phpbemja4_split_fragpunk_katalog.jpg",
+    "local": "/satano/fragpunk.webp"
+  },
+  {
+    "slug": "point-blank",
+    "title": "Point Blank",
+    "satanoSlug": null,
+    "satanoAlt": null,
+    "sourceUrl": null,
+    "previousImage": "/cs/uploads/202503/phpisowsd_split_point_blank_katalog.jpg",
+    "local": "/cs/uploads/202503/phpisowsd_split_point_blank_katalog.jpg"
+  },
+  {
+    "slug": "path-of-exile-2",
+    "title": "Path of Exile 2",
+    "satanoSlug": "path-of-exile-2",
+    "satanoAlt": "Path Of Exile 2 (POE 2)",
+    "sourceUrl": "https://wh-satano.ru/storage/thumbnails/default/3f/na/t5i3e78kg0cs4cs8gww80.webp?p=path-of-exile-2.webp&s=s3",
+    "previousImage": "/cs/uploads/202504/phpimmoeq_split_poe2_katalog.jpg",
+    "local": "/satano/path-of-exile-2.webp"
+  },
+  {
+    "slug": "last-epoch",
+    "title": "Last Epoch",
+    "satanoSlug": "last-epoch",
+    "satanoAlt": "Last Epoch",
+    "sourceUrl": "https://wh-satano.ru/storage/thumbnails/default/4f/xd/y3yo82sk0kwwsog0ggc04.webp?p=lastepoch.webp&s=s3",
+    "previousImage": "/cs/uploads/202504/phpixge6t_split_laste[och_katalog.jpg",
+    "local": "/satano/last-epoch.webp"
+  },
+  {
+    "slug": "8-ball-pool",
+    "title": "8 Ball Pool",
+    "satanoSlug": null,
+    "satanoAlt": null,
+    "sourceUrl": null,
+    "previousImage": "/cs/uploads/202504/phpufuo3j_split_8ball_katalog.jpg",
+    "local": "/cs/uploads/202504/phpufuo3j_split_8ball_katalog.jpg"
+  },
+  {
+    "slug": "free-fire",
+    "title": "Free Fire",
+    "satanoSlug": null,
+    "satanoAlt": null,
+    "sourceUrl": null,
+    "previousImage": "/cs/uploads/202505/phprp9q7t_split_freefire_katalog.jpg",
+    "local": "/cs/uploads/202505/phprp9q7t_split_freefire_katalog.jpg"
+  },
+  {
+    "slug": "arc-raiders",
+    "title": "ARC Raiders",
+    "satanoSlug": "arc-raiders",
+    "satanoAlt": "ARC Raiders",
+    "sourceUrl": "https://wh-satano.ru/storage/thumbnails/default/j9/y0/evtjxp4c8k4kwkswgg44.webp?p=arc-raiders.webp&s=s3",
+    "previousImage": "/cs/uploads/202505/phpu4fwcl_split_arcraiders_katalog.jpg",
+    "local": "/satano/arc-raiders.webp"
+  },
+  {
+    "slug": "etheria-restart",
+    "title": "Etheria Restart",
+    "satanoSlug": "etheria-restart",
+    "satanoAlt": "Etheria Restart",
+    "sourceUrl": "https://wh-satano.ru/storage/thumbnails/default/59/c5/5jip0x0k08kkkwwc00gg4.webp?p=etheria-restart.webp&s=s3",
+    "previousImage": "/cs/uploads/202506/php4a5zno_split_etheria_katalog.jpg",
+    "local": "/satano/etheria-restart.webp"
+  },
+  {
+    "slug": "foxhole",
+    "title": "Foxhole",
+    "satanoSlug": "foxhole",
+    "satanoAlt": "Foxhole",
+    "sourceUrl": "https://wh-satano.ru/storage/thumbnails/default/9p/lu/gajmw54w8wo0c0c8gscg8.webp?p=foxhole.webp&s=s3",
+    "previousImage": "/cs/uploads/202506/phpacfb1w_split_foxhole_katalog.jpg",
+    "local": "/satano/foxhole.webp"
+  },
+  {
+    "slug": "steel-hunters",
+    "title": "Steel Hunters",
+    "satanoSlug": null,
+    "satanoAlt": null,
+    "sourceUrl": null,
+    "previousImage": "/cs/uploads/202506/phpfjza3y_split_steel_hunters_katalog.jpg",
+    "local": "/cs/uploads/202506/phpfjza3y_split_steel_hunters_katalog.jpg"
+  },
+  {
+    "slug": "rematch",
+    "title": "Rematch",
+    "satanoSlug": null,
+    "satanoAlt": null,
+    "sourceUrl": null,
+    "previousImage": "/cs/uploads/202506/phpkadakg_split_rematch_katalog.jpg",
+    "local": "/cs/uploads/202506/phpkadakg_split_rematch_katalog.jpg"
+  }
+]

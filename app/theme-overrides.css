@@ -1,0 +1,458 @@
+/* Logo-matched theme (Gaming World Daily cyan / navy). Classic purple stays in globals.css. */
+
+[data-theme="logo"] {
+  color-scheme: dark;
+  scrollbar-color: rgba(74, 222, 128, 0.18) transparent;
+}
+
+[data-theme="logo"] ::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+[data-theme="logo"] ::-webkit-scrollbar-thumb {
+  background: rgba(74, 222, 128, 0.18);
+  border-radius: 999px;
+}
+
+[data-theme="logo"] ::-webkit-scrollbar {
+  width: 5px;
+}
+
+[data-theme="logo"] body,
+[data-theme="logo"] .space-world-site {
+  background: transparent;
+}
+
+[data-theme="logo"] .site-top-nav {
+  background: linear-gradient(
+    180deg,
+    rgba(10, 20, 10, 0.72) 0%,
+    rgba(8, 8, 8, 0.55) 100%
+  );
+  border-bottom-color: rgba(74, 222, 128, 0.12);
+}
+
+[data-theme="logo"] .nav-contact-btn {
+  background: linear-gradient(135deg, #4ade80 0%, #16a34a 100%);
+  box-shadow: 0 4px 18px rgba(74, 222, 128, 0.35);
+}
+
+[data-theme="logo"] .site-hero-title {
+  color: #f0f9ff;
+}
+
+[data-theme="logo"] .site-hero-tagline {
+  color: rgba(134, 239, 172, 0.88);
+}
+
+[data-theme="logo"] .gyc-headline {
+  background: linear-gradient(90deg, #bbf7d0 0%, #4ade80 55%, #16a34a 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+[data-theme="logo"] .hero-glow-primary {
+  background: radial-gradient(
+    ellipse at center,
+    rgba(74, 222, 128, 0.12) 0%,
+    rgba(34, 197, 94, 0.05) 40%,
+    transparent 72%
+  ) !important;
+}
+
+[data-theme="logo"] .hero-glow-secondary {
+  background: radial-gradient(
+    circle,
+    rgba(74, 222, 128, 0.22) 0%,
+    transparent 70%
+  ) !important;
+}
+
+[data-theme="logo"] .gyc-search-wrap:focus-within {
+  box-shadow:
+    0 0 0 1px rgba(74, 222, 128, 0.5),
+    0 0 18px rgba(74, 222, 128, 0.28),
+    0 0 36px rgba(34, 197, 94, 0.14);
+}
+
+[data-theme="logo"] .gyc-search-input {
+  border-color: rgba(74, 222, 128, 0.35);
+  background: #0d120d;
+}
+
+[data-theme="logo"] .gyc-search-input:focus {
+  border-color: rgba(74, 222, 128, 0.7);
+}
+
+[data-theme="logo"] .gyc-search-wrap:focus-within .gyc-search-icon svg {
+  color: #86efac;
+}
+
+[data-theme="logo"] .gyc-simple-link,
+[data-theme="logo"] .guide-inline-link,
+[data-theme="logo"] .site-prose-link {
+  color: #86efac;
+}
+
+[data-theme="logo"] .gyc-simple-link:hover,
+[data-theme="logo"] .guide-inline-link:hover,
+[data-theme="logo"] .site-prose-link:hover {
+  color: #bbf7d0;
+}
+
+[data-theme="logo"] .site-prose-link {
+  text-decoration-color: rgba(74, 222, 128, 0.4);
+}
+
+[data-theme="logo"] .guide-inline-link {
+  text-decoration-color: rgba(74, 222, 128, 0.4);
+}
+
+[data-theme="logo"] .gyc-product-image-wrap,
+[data-theme="logo"] .gyc-product-frame,
+[data-theme="logo"] .guide-card,
+[data-theme="logo"] .guide-hero-panel,
+[data-theme="logo"] .guide-hero-media,
+[data-theme="logo"] .guide-paired-panel,
+[data-theme="logo"] .guide-features-panel,
+[data-theme="logo"] .guide-info-panel,
+[data-theme="logo"] .blog-spotlight-panel,
+[data-theme="logo"] .blog-spotlight-frame {
+  background-color: #0d1a0d;
+}
+
+[data-theme="logo"] .site-footer-nav,
+[data-theme="logo"] .site-footer-top,
+[data-theme="logo"] .site-footer-brand,
+[data-theme="logo"] .guide-section,
+[data-theme="logo"] .blog-spotlight-list {
+  border-color: rgba(74, 222, 128, 0.22);
+}
+
+[data-theme="logo"] .guide-paired-panel,
+[data-theme="logo"] .guide-features-panel,
+[data-theme="logo"] .guide-info-panel,
+[data-theme="logo"] .blog-spotlight-panel {
+  box-shadow: 0 0 40px rgba(74, 222, 128, 0.08);
+}
+
+[data-theme="logo"] .guide-features-panel {
+  background-image:
+    radial-gradient(circle at top left, rgba(74, 222, 128, 0.14), transparent 52%),
+    radial-gradient(circle at bottom right, rgba(34, 197, 94, 0.1), transparent 45%);
+}
+
+[data-theme="logo"] .guide-info-panel,
+[data-theme="logo"] .blog-spotlight-panel {
+  background-image: radial-gradient(
+    circle at top right,
+    rgba(74, 222, 128, 0.12),
+    transparent 55%
+  );
+}
+
+[data-theme="logo"] .blog-spotlight-panel {
+  background-color: rgba(3, 16, 32, 0.92);
+}
+
+[data-theme="logo"] .guide-paired-tag,
+[data-theme="logo"] .guide-features-chip,
+[data-theme="logo"] .blog-spotlight-badge {
+  border-color: rgba(74, 222, 128, 0.28);
+  background: rgba(74, 222, 128, 0.1);
+  color: #86efac;
+}
+
+[data-theme="logo"] .guide-feature-icon-wrap,
+[data-theme="logo"] .guide-info-icon-wrap,
+[data-theme="logo"] .guide-step-num,
+[data-theme="logo"] .guide-faq summary::after {
+  border-color: rgba(74, 222, 128, 0.3);
+  background: rgba(74, 222, 128, 0.1);
+  color: #86efac;
+}
+
+[data-theme="logo"] .guide-feature-card-violet {
+  border-color: rgba(255, 255, 255, 0.1);
+}
+
+[data-theme="logo"] .guide-feature-card-violet:hover {
+  border-color: rgba(74, 222, 128, 0.35);
+  box-shadow: 0 0 24px rgba(74, 222, 128, 0.12);
+}
+
+[data-theme="logo"] .guide-feature-card,
+[data-theme="logo"] .guide-score-card,
+[data-theme="logo"] .guide-rival-card,
+[data-theme="logo"] .guide-version-card,
+[data-theme="logo"] .guide-table th,
+[data-theme="logo"] .guide-info-card,
+[data-theme="logo"] .guide-feature-card {
+  background-color: rgba(5, 20, 40, 0.92);
+}
+
+[data-theme="logo"] .guide-info-card {
+  border-color: rgba(74, 222, 128, 0.2);
+  background: linear-gradient(135deg, #0d120d 0%, #0d1a0d 50%, #0d1a0d 100%);
+}
+
+[data-theme="logo"] .guide-info-card:hover {
+  border-color: rgba(74, 222, 128, 0.45);
+  box-shadow: 0 0 28px rgba(74, 222, 128, 0.12);
+}
+
+[data-theme="logo"] .guide-info-card::before {
+  background: linear-gradient(
+    90deg,
+    transparent,
+    rgba(74, 222, 128, 0.55),
+    transparent
+  );
+}
+
+[data-theme="logo"] .guide-score-card-highlight {
+  border-color: rgba(74, 222, 128, 0.4);
+  box-shadow: 0 0 0 1px rgba(74, 222, 128, 0.3);
+}
+
+[data-theme="logo"] .guide-score-bar span {
+  background: linear-gradient(90deg, #38bdf8 0%, #4ade80 100%);
+}
+
+[data-theme="logo"] .guide-hero-copy h1,
+[data-theme="logo"] .blog-spotlight-highlight {
+  background: linear-gradient(90deg, #bbf7d0 0%, #86efac 50%, #4ade80 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+[data-theme="logo"] .guide-cta,
+[data-theme="logo"] .blog-spotlight-cta,
+[data-theme="logo"] .access-cta {
+  background: linear-gradient(135deg, #4ade80 0%, #16a34a 100%);
+  box-shadow:
+    0 0 0 1px rgba(255, 255, 255, 0.12),
+    0 8px 28px rgba(74, 222, 128, 0.42),
+    0 0 40px rgba(74, 222, 128, 0.18);
+}
+
+[data-theme="logo"] .access-cta:hover,
+[data-theme="logo"] .guide-cta:hover,
+[data-theme="logo"] .blog-spotlight-cta:hover {
+  box-shadow:
+    0 0 0 1px rgba(255, 255, 255, 0.18),
+    0 12px 32px rgba(74, 222, 128, 0.5),
+    0 0 48px rgba(34, 197, 94, 0.22);
+}
+
+[data-theme="logo"] .gyc-product-access-badge,
+[data-theme="logo"] .catalog-access-banner-inner {
+  border-color: rgba(74, 222, 128, 0.3);
+  background: linear-gradient(135deg, rgba(74, 222, 128, 0.15) 0%, #0d120d 50%, rgba(34, 197, 94, 0.1) 100%);
+}
+
+[data-theme="logo"] .gyc-product-access-badge {
+  background: linear-gradient(135deg, #4ade80 0%, #16a34a 100%);
+  box-shadow: 0 4px 16px rgba(74, 222, 128, 0.45);
+}
+
+[data-theme="logo"] .guide-access-bar {
+  background: rgba(2, 8, 16, 0.96);
+  border-top-color: rgba(74, 222, 128, 0.2);
+}
+
+[data-theme="logo"] .guide-faq-item {
+  border-color: rgba(74, 222, 128, 0.2);
+  background: rgba(3, 16, 32, 0.92);
+}
+
+[data-theme="logo"] .guide-faq-item:hover {
+  border-color: rgba(74, 222, 128, 0.35);
+}
+
+[data-theme="logo"] .guide-faq-item[open] {
+  border-color: rgba(74, 222, 128, 0.5);
+  background: #0d1a0d;
+  box-shadow: 0 0 20px rgba(74, 222, 128, 0.14);
+}
+
+[data-theme="logo"] .guide-faq-item[open] summary::after {
+  border-color: rgba(74, 222, 128, 0.5);
+  background: rgba(74, 222, 128, 0.25);
+  color: #fff;
+}
+
+[data-theme="logo"] .blog-spotlight-caption {
+  color: #86efac;
+}
+
+[data-theme="logo"] .gyc-simple-card {
+  background: rgba(5, 20, 40, 0.72);
+  border-color: rgba(74, 222, 128, 0.15);
+}
+
+/* Article guide pages (Tarkov-style layout) — logo / blue theme */
+[data-theme="logo"] .article-guide-kicker,
+[data-theme="logo"] .article-guide-section-kicker,
+[data-theme="logo"] .article-market-kicker,
+[data-theme="logo"] .article-guide-pick-share {
+  color: rgba(134, 239, 172, 0.9);
+}
+
+[data-theme="logo"] .article-guide-blog-sections {
+  border-color: rgba(74, 222, 128, 0.22);
+  background-color: rgba(3, 16, 32, 0.92);
+  background-image: radial-gradient(
+    circle at top left,
+    rgba(74, 222, 128, 0.12),
+    transparent 50%
+  );
+}
+
+[data-theme="logo"] .article-guide-blog-tag,
+[data-theme="logo"] .article-guide-pick-rank,
+[data-theme="logo"] .article-market-winner-badge,
+[data-theme="logo"] .article-market-th-badge {
+  border-color: rgba(74, 222, 128, 0.28);
+  background: rgba(74, 222, 128, 0.12);
+  color: #86efac;
+}
+
+[data-theme="logo"] .article-guide-blog-block li::before,
+[data-theme="logo"] .article-guide-feature-copy li::before {
+  background-color: #4ade80;
+}
+
+[data-theme="logo"] .article-guide-picks {
+  background:
+    radial-gradient(circle at top left, rgba(74, 222, 128, 0.12), transparent 45%),
+    linear-gradient(180deg, rgba(5, 20, 40, 0.92) 0%, rgba(2, 8, 16, 0.98) 100%);
+}
+
+[data-theme="logo"] .article-guide-pick-fill {
+  background: linear-gradient(90deg, #16a34a 0%, #4ade80 100%);
+}
+
+[data-theme="logo"] .article-guide-feature-frame,
+[data-theme="logo"] .article-guide-hero-frame {
+  background-color: #0d1a0d;
+}
+
+[data-theme="logo"] .article-guide-market {
+  background:
+    radial-gradient(circle at top right, rgba(74, 222, 128, 0.14), transparent 42%),
+    linear-gradient(180deg, rgba(5, 20, 40, 0.95) 0%, rgba(2, 8, 16, 0.98) 100%);
+}
+
+[data-theme="logo"] .article-market-winner {
+  border-color: rgba(74, 222, 128, 0.45);
+  background: linear-gradient(145deg, rgba(74, 222, 128, 0.18) 0%, rgba(5, 20, 40, 0.92) 55%);
+  box-shadow:
+    0 0 0 1px rgba(255, 255, 255, 0.06) inset,
+    0 16px 40px rgba(74, 222, 128, 0.2);
+}
+
+[data-theme="logo"] .article-market-winner-glow {
+  background: radial-gradient(circle, rgba(74, 222, 128, 0.45) 0%, transparent 70%);
+}
+
+[data-theme="logo"] .article-market-winner-score {
+  color: #86efac;
+}
+
+[data-theme="logo"] .article-market-score-fill {
+  background: linear-gradient(90deg, #16a34a 0%, #4ade80 55%, #86efac 100%);
+  box-shadow: 0 0 12px rgba(74, 222, 128, 0.45);
+}
+
+[data-theme="logo"] .article-market-rivals {
+  background: rgba(5, 20, 40, 0.85);
+}
+
+[data-theme="logo"] .article-guide-market-foot {
+  border-color: rgba(74, 222, 128, 0.25);
+  background: linear-gradient(90deg, rgba(74, 222, 128, 0.1) 0%, transparent 100%);
+}
+
+[data-theme="logo"] .article-market-col-zadeyo {
+  background: rgba(74, 222, 128, 0.1);
+  box-shadow: inset 0 0 0 1px rgba(74, 222, 128, 0.12);
+}
+
+[data-theme="logo"] .article-guide-market-table thead .article-market-col-zadeyo {
+  background: linear-gradient(180deg, rgba(74, 222, 128, 0.22) 0%, rgba(74, 222, 128, 0.1) 100%);
+}
+
+[data-theme="logo"] .article-guide-market-table thead .article-market-col-zadeyo .article-market-th-name {
+  color: #bbf7d0;
+}
+
+[data-theme="logo"] .article-guide-faq-panel {
+  background:
+    radial-gradient(circle at top right, rgba(74, 222, 128, 0.12), transparent 42%),
+    linear-gradient(180deg, rgba(5, 20, 40, 0.95) 0%, rgba(2, 8, 16, 0.98) 100%);
+}
+
+[data-theme="logo"] .article-guide-faq-quick-link {
+  border-color: rgba(74, 222, 128, 0.3);
+  background: rgba(74, 222, 128, 0.1);
+  color: #86efac;
+}
+
+[data-theme="logo"] .article-guide-faq-quick-link:hover {
+  border-color: rgba(74, 222, 128, 0.5);
+  background: rgba(74, 222, 128, 0.2);
+}
+
+[data-theme="logo"] .article-guide-faq-item.is-popular {
+  border-color: rgba(74, 222, 128, 0.3);
+  background: rgba(74, 222, 128, 0.1);
+  box-shadow: inset 0 1px 0 rgba(134, 239, 172, 0.08);
+}
+
+[data-theme="logo"] .article-guide-faq-item[open] {
+  border-color: rgba(74, 222, 128, 0.45);
+  background: rgba(10, 30, 61, 0.92);
+}
+
+[data-theme="logo"] .article-guide-faq-chevron {
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 20 20' fill='none'%3E%3Cpath d='M5 8l5 5 5-5' stroke='%237dd3fc' stroke-width='1.75' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E");
+}
+
+[data-theme="logo"] .article-guide-faq-item[open] .article-guide-faq-chevron {
+  border-color: rgba(74, 222, 128, 0.3);
+  background-color: rgba(74, 222, 128, 0.2);
+}
+
+[data-theme="logo"] .article-guide-cta {
+  border-color: rgba(74, 222, 128, 0.3);
+  background: linear-gradient(135deg, rgba(74, 222, 128, 0.1) 0%, transparent 100%);
+}
+
+[data-theme="logo"] .article-guide-more a {
+  color: #86efac;
+}
+
+[data-theme="logo"] .article-guide-more a:hover {
+  color: #bbf7d0;
+}
+
+[data-theme="logo"] .review-star-picker-btn:focus-visible {
+  --tw-ring-color: rgba(74, 222, 128, 0.6);
+}
+
+[data-theme="logo"] .review-field input:focus,
+[data-theme="logo"] .review-field select:focus,
+[data-theme="logo"] .review-field textarea:focus {
+  border-color: rgba(74, 222, 128, 0.7);
+}
+
+[data-theme="logo"] .review-admin-toggle {
+  color: #86efac;
+}
+
+[data-theme="logo"] .review-admin-toggle:hover {
+  color: #bbf7d0;
+}
