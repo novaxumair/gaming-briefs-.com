@@ -17,11 +17,7 @@ export default function HomePage() {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(homeSchema()) }}
       />
-      <HomePageShell
-        title={SITE.mainH1}
-        tagline={SITE.heroTagline}
-        description={SITE.heroLead}
-      >
+      <HomePageShell>
         <GycSeoSection />
       </HomePageShell>
     </>

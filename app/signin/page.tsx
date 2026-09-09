@@ -5,7 +5,7 @@ import { buildPageMetadata } from "@/lib/seo";
 
 export const metadata: Metadata = buildPageMetadata({
   title: `Sign in | ${SITE.name}`,
-  description: "Sign in to leave reviews on Gaming Briefs guides.",
+  description: "Sign in to leave reviews on Cheats Intel guides.",
   path: "/signin",
   indexable: false,
 });

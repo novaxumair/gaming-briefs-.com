@@ -53,7 +53,7 @@ const SOURCES = {
 
 async function downloadOne(url) {
   const res = await fetch(url, {
-    headers: { "User-Agent": "Mozilla/5.0 (compatible; GamingBriefs/1.0)" },
+    headers: { "User-Agent": "Mozilla/5.0 (compatible; CheatsIntel/1.0)" },
     redirect: "follow",
   });
   if (!res.ok) throw new Error(`HTTP ${res.status}`);

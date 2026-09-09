@@ -21,7 +21,7 @@ export function blogSpotlightStats(slug: string) {
 }
 
 export function blogSpotlightBadge(gameName: string): string {
-  return `Gaming Briefs — ${gameName} — Updated 2026`;
+  return `Cheats Intel — ${gameName} — Updated 2026`;
 }
 
 export function blogSpotlightHeadline(gameName: string): string {

@@ -1,8 +1,8 @@
-# GamingBriefs
+# Cheats Intel
 
-Your ultimate gaming article hub — game guides, updates, tips, and cheat comparisons at [gamingbriefs.com](https://gamingbriefs.com).
+Your ultimate gaming article hub — game guides, updates, tips, and cheat comparisons at [cheatsintel.com](https://cheatsintel.com).
 
-Built on the Gaming World Daily template layout with a futuristic zadeyo-inspired UI: split-flap hero board, scroll-stacked guide cards, purple neon ambiance, and full responsive design.
+Built on a modern Next.js layout with a futuristic gaming UI: split-flap hero board, scroll-stacked guide cards, neon ambiance, and full responsive design.
 
 ## Run locally
 

@@ -11,7 +11,7 @@ const POPULAR_GUIDES = [
 
 export default function GycSeoSection({ variant = "home" }: { variant?: "home" | "articles" }) {
   const aboutTitle =
-    variant === "articles" ? "About the Gaming Briefs guide library" : "About Gaming Briefs";
+    variant === "articles" ? "About the Cheats Intel guide library" : "About Cheats Intel";
 
   return (
     <section className="site-container pb-8 pt-10">
@@ -30,7 +30,7 @@ export default function GycSeoSection({ variant = "home" }: { variant?: "home" |
         ) : (
           <p>
             <Link href="/" className="site-prose-link">
-              Gaming Briefs
+              Cheats Intel
             </Link>{" "}
             is built for players who want clear, readable guides before they buy. Every listing
             focuses on practical tools people actually search for: aimbot tracking, ESP overlays,
@@ -101,7 +101,7 @@ export default function GycSeoSection({ variant = "home" }: { variant?: "home" |
           carefully.
         </p>
 
-        <h2>Why Gaming Briefs exists</h2>
+        <h2>Why Cheats Intel exists</h2>
         <p>
           Most people looking for game cheats waste time across Telegram sellers, cracked pastes,
           and storefronts that hide features until after checkout. {SITE.name} centralizes

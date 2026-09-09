@@ -12,10 +12,10 @@ export interface StaticPageContent {
 export const staticPages: StaticPageContent[] = [
   {
     path: "/contact",
-    title: "Contact | Gaming Briefs Support",
+    title: "Contact | Cheats Intel Support",
     description:
-      "Contact Gaming Briefs for load help, checkout questions, license lookup, and buyer support.",
-    h1: "Contact Gaming Briefs",
+      "Contact Cheats Intel for load help, checkout questions, license lookup, and buyer support.",
+    h1: "Contact Cheats Intel",
     paragraphs: [
       "Need help with a loader, license delivery, or comparing aimbot and ESP tiers before checkout? Contact us with your game title, order email, and a short description of the issue.",
       [
@@ -27,9 +27,9 @@ export const staticPages: StaticPageContent[] = [
   },
   {
     path: "/support",
-    title: "Load Help & Support | Gaming Briefs",
+    title: "Load Help & Support | Cheats Intel",
     description:
-      "Load help, setup notes, and buyer support for Gaming Briefs game cheat guides.",
+      "Load help, setup notes, and buyer support for Cheats Intel game cheat guides.",
     h1: "Load help & support",
     paragraphs: [
       [
@@ -46,13 +46,13 @@ export const staticPages: StaticPageContent[] = [
   },
   {
     path: "/about-us",
-    title: "About Us | Gaming Briefs",
+    title: "About Us | Cheats Intel",
     description:
-      "Learn what Gaming Briefs is, how the cheat guides catalog works, and why the site exists.",
-    h1: "About Gaming Briefs",
+      "Learn what Cheats Intel is, how the cheat guides catalog works, and why the site exists.",
+    h1: "About Cheats Intel",
     paragraphs: [
       [
-        "Gaming Briefs is a title-by-title ",
+        "Cheats Intel is a title-by-title ",
         { href: "/articles", label: "cheat guides" },
         ". Each page documents aimbot, ESP, wallhack, and spoofer coverage in plain language so buyers can compare features before checkout.",
       ],
@@ -67,9 +67,9 @@ export const staticPages: StaticPageContent[] = [
   },
   {
     path: "/insight",
-    title: "Insights | Gaming Briefs",
+    title: "Insights | Cheats Intel",
     description:
-      "Insights and updates on cheat guides, patch notes, and catalog changes at Gaming Briefs.",
+      "Insights and updates on cheat guides, patch notes, and catalog changes at Cheats Intel.",
     h1: "Insights",
     paragraphs: [
       [
@@ -86,9 +86,9 @@ export const staticPages: StaticPageContent[] = [
   },
   {
     path: "/fees",
-    title: "Fees | Gaming Briefs",
+    title: "Fees | Cheats Intel",
     description:
-      "Fee and pricing notes for Gaming Briefs cheat guide listings and checkout paths.",
+      "Fee and pricing notes for Cheats Intel cheat guide listings and checkout paths.",
     h1: "Fees",
     paragraphs: [
       [
@@ -105,8 +105,8 @@ export const staticPages: StaticPageContent[] = [
   },
   {
     path: "/signin",
-    title: "Account Sign In | Gaming Briefs",
-    description: "Sign in to your Gaming Briefs account to access licenses and order history.",
+    title: "Account Sign In | Cheats Intel",
+    description: "Sign in to your Cheats Intel account to access licenses and order history.",
     h1: "Account sign in",
     paragraphs: [
       "Sign in to view active licenses, delivery details, and past orders tied to your account.",
@@ -124,12 +124,12 @@ export const staticPages: StaticPageContent[] = [
   },
   {
     path: "/policies/terms-and-conditions",
-    title: "Terms and Conditions | Gaming Briefs",
-    description: "Terms and conditions for using Gaming Briefs and its cheat guide catalog.",
+    title: "Terms and Conditions | Cheats Intel",
+    description: "Terms and conditions for using Cheats Intel and its cheat guide catalog.",
     h1: "Terms and Conditions",
     paragraphs: [
       [
-        "By using Gaming Briefs you agree to read product status notes on each ",
+        "By using Cheats Intel you agree to read product status notes on each ",
         { href: "/articles", label: "cheat guide" },
         " before every session. Cheat detection status can change after game patches.",
       ],
@@ -138,8 +138,8 @@ export const staticPages: StaticPageContent[] = [
   },
   {
     path: "/policies/returns-and-cancellations",
-    title: "Returns & Cancellations | Gaming Briefs",
-    description: "Returns and cancellation policy for Gaming Briefs digital cheat licenses.",
+    title: "Returns & Cancellations | Cheats Intel",
+    description: "Returns and cancellation policy for Cheats Intel digital cheat licenses.",
     h1: "Returns & Cancellations",
     paragraphs: [
       "Digital licenses and loader access are generally non-refundable once delivered, unless required by applicable law or stated on the product page at purchase.",
@@ -154,8 +154,8 @@ export const staticPages: StaticPageContent[] = [
   },
   {
     path: "/policies/privacy-policy",
-    title: "Privacy Policy | Gaming Briefs",
-    description: "Privacy policy for Gaming Briefs — what data we collect and how it is used.",
+    title: "Privacy Policy | Cheats Intel",
+    description: "Privacy policy for Cheats Intel — what data we collect and how it is used.",
     h1: "Privacy Policy",
     paragraphs: [
       "We collect account, order, and support contact data needed to deliver licenses and respond to tickets. Analytics may record page views to improve the catalog.",

@@ -4,7 +4,7 @@ import React, { useCallback, useEffect, useState } from "react";
 import { TextFlippingBoard } from "@/components/ui/text-flipping-board";
 
 const MESSAGES: string[] = [
-  "GAME GUIDES\nCHEATS & TIPS\n- GAMING BRIEFS",
+  "GAME GUIDES\nCHEATS & TIPS\n- CHEATS INTEL",
   "DOMINATE EVERY\nMATCH YOU PLAY",
   "PATCH NOTES\nBUILD GUIDES\nMETA BREAKDOWNS",
   "LEVEL UP FAST\nWIN MORE GAMES",

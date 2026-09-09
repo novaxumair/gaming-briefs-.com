@@ -30,7 +30,7 @@ Most Warzone packages combine player ESP, loot filters, distance sliders, and so
 
 Anti-cheat combines behavioral models with hardware traces. **Warzone cheating in ranked** affects lobbies when prefires happen every rotation. Treat undetected claims as temporary.
 
-See our Warzone guide on Gaming Briefs for feature checklists and buyer FAQs.`,
+See our Warzone guide on Cheats Intel for feature checklists and buyer FAQs.`,
   },
   {
     slug: "rainbow-six-esports-cheating",

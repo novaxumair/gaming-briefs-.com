@@ -99,7 +99,7 @@ export default function GycFooter() {
             <FooterNav
               title="Socials"
               links={[
-                { href: "https://x.com/gamingbriefs", label: "X / Twitter" },
+                { href: "https://x.com/cheatsintel", label: "X / Twitter" },
                 { href: "/contact", label: "Contact support" },
               ]}
             />
