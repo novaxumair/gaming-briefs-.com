@@ -35,7 +35,7 @@ export default function BlogSpotlightHero({
   guide,
   primaryHref,
   primaryLabel,
-  secondaryHref = "/blogs",
+  secondaryHref = "/articles",
   secondaryLabel = "See all cheats",
   showGuideLink = false,
   headingLevel = "h2",

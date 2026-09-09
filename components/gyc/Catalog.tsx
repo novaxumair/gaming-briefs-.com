@@ -1,15 +1,12 @@
 "use client";
 
 import { useMemo } from "react";
-import { catalogItems, getCatalogHref, type CatalogItem } from "@/lib/data";
+import { getCatalogHref, type CatalogItem } from "@/lib/data";
+import { filterCatalogItems } from "@/lib/search-guides";
 import ProductCard from "./ProductCard";
 
 export default function GycCatalog({ query, linkMode }: { query: string; linkMode: "game" | "cheats" }) {
-  const filtered = useMemo(() => {
-    const q = query.toLowerCase().trim();
-    if (!q) return catalogItems;
-    return catalogItems.filter((item) => item.title.toLowerCase().includes(q));
-  }, [query]);
+  const filtered = useMemo(() => filterCatalogItems(query), [query]);
 
   if (filtered.length === 0) return null;
 

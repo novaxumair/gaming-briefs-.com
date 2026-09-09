@@ -1,4 +1,5 @@
 import type { FeaturedGuideArticle } from "./types";
+import { getBuyUrl } from "@/lib/buy-links";
 import { getFeaturedGameImage } from "@/lib/featured-game-images";
 import { valorantGuide } from "./valorant";
 import { warzoneGuide } from "./warzone";
@@ -17,6 +18,7 @@ const BASE_FEATURED_GUIDES: FeaturedGuideArticle[] = [
 export const FEATURED_GUIDES: FeaturedGuideArticle[] = BASE_FEATURED_GUIDES.map((guide) => ({
   ...guide,
   image: getFeaturedGameImage(guide.slug) ?? guide.image,
+  zadeyoUrl: getBuyUrl(guide.slug),
 }));
 
 export function getFeaturedGuide(slug: string): FeaturedGuideArticle | undefined {

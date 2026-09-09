@@ -3,7 +3,7 @@ const SEARCH_PLACEHOLDER = "Search articles, guides, game updates...";
 export default function HomeHeroSearch() {
   return (
     <div className="site-search-row mt-4 w-full max-w-xl">
-      <form action="/blogs" method="get" className="relative w-full">
+      <form action="/articles" method="get" className="relative w-full">
         <input
           type="search"
           name="q"

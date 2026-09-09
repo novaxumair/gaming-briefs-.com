@@ -1,6 +1,7 @@
 "use client";
 
 import dynamic from "next/dynamic";
+import { usePathname } from "next/navigation";
 import { useEffect, useState } from "react";
 
 const SpaceWorldBackground = dynamic(
@@ -31,16 +32,20 @@ function scheduleBackgroundLoad(onReady: () => void) {
 }
 
 export default function SpaceWorldBackgroundLoader() {
+  const pathname = usePathname();
   const [ready, setReady] = useState(false);
+  const isHome = pathname === "/";
 
   useEffect(() => {
+    if (!isHome) return;
+
     const reducedMotion = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
     if (reducedMotion) return;
 
     scheduleBackgroundLoad(() => setReady(true));
-  }, []);
+  }, [isHome]);
 
-  if (!ready) {
+  if (!isHome || !ready) {
     return <div className="space-world-fallback" aria-hidden />;
   }
 

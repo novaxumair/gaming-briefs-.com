@@ -9,18 +9,18 @@ const POPULAR_GUIDES = [
   { slug: "sea-of-thieves", label: "Sea of Thieves" },
 ] as const;
 
-export default function GycSeoSection({ variant = "home" }: { variant?: "home" | "blogs" }) {
+export default function GycSeoSection({ variant = "home" }: { variant?: "home" | "articles" }) {
   const aboutTitle =
-    variant === "blogs" ? "About the Gaming Briefs guide library" : "About Gaming Briefs";
+    variant === "articles" ? "About the Gaming Briefs guide library" : "About Gaming Briefs";
 
   return (
     <section className="site-container pb-8 pt-10">
       <div className="site-prose text-left">
         <h2>{aboutTitle}</h2>
-        {variant === "blogs" ? (
+        {variant === "articles" ? (
           <p>
             The{" "}
-            <Link href="/blogs" className="site-prose-link">
+            <Link href="/articles" className="site-prose-link">
               cheat guides library
             </Link>{" "}
             lists every title on {SITE.domainHost} with feature breakdowns, gameplay previews,
@@ -46,7 +46,7 @@ export default function GycSeoSection({ variant = "home" }: { variant?: "home" |
         </p>
 
         <h2>How to research aimbot, ESP, and wallhack options</h2>
-        {variant === "blogs" ? (
+        {variant === "articles" ? (
           <p>
             Scroll the featured guide list below to jump straight into a game page, or use the{" "}
             <Link href="/" className="site-prose-link">
@@ -118,7 +118,7 @@ export default function GycSeoSection({ variant = "home" }: { variant?: "home" |
             <span key={game.slug}>
               {index > 0 ? (index === POPULAR_GUIDES.length - 1 ? ", and " : ", ") : null}
               <Link
-                href={variant === "blogs" ? getGuideUrl(game.slug) : getGameUrl(game.slug)}
+                href={variant === "articles" ? getGuideUrl(game.slug) : getGameUrl(game.slug)}
                 className="site-prose-link"
               >
                 {game.label}
@@ -126,7 +126,7 @@ export default function GycSeoSection({ variant = "home" }: { variant?: "home" |
             </span>
           ))}
           , and other featured titles. Use the search field to filter cards, open a{" "}
-          <Link href="/blogs" className="site-prose-link">
+          <Link href="/articles" className="site-prose-link">
             cheat guide
           </Link>
           , verify features, then checkout when the offer matches how you play. Questions?{" "}

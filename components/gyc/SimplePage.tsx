@@ -32,7 +32,7 @@ export default function GycSimplePage({ page }: { page: StaticPageContent }) {
               homepage
             </Link>
             , browse{" "}
-            <Link href="/blogs" className="gyc-simple-link">
+            <Link href="/articles" className="gyc-simple-link">
               cheat guides
             </Link>
             , visit the{" "}

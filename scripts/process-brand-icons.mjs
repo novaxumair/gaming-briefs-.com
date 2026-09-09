@@ -15,9 +15,7 @@ const assetsDir =
 
 const sources = {
   invader:
-    "c__Users_Bader_AppData_Roaming_Cursor_User_workspaceStorage_4bf2324c2549e3bd893e6adee28542c9_images_image-59dddb6d-3fe9-4c3c-983b-7f436e8a0c8b.png",
-  logoMark:
-    "c__Users_Bader_AppData_Roaming_Cursor_User_workspaceStorage_4bf2324c2549e3bd893e6adee28542c9_images_image-f3c5766a-3a7a-4334-9c1b-ee6df95cec04.png",
+    "c__Users_Bader_AppData_Roaming_Cursor_User_workspaceStorage_4bf2324c2549e3bd893e6adee28542c9_images_image-6552e275-0919-47e5-b56d-19d7ee0b5a93.png",
 };
 
 async function stripBlackBackground(inputPath, outputPath, threshold = 28) {
@@ -79,13 +77,10 @@ async function main() {
   await mkdir(path.join(root, "public", "images"), { recursive: true });
 
   const invaderSrc = path.join(assetsDir, sources.invader);
-  const logoSrc = path.join(assetsDir, sources.logoMark);
 
   const invaderPng = path.join(root, "public", "images", "favicon-invader.png");
-  const logoPng = path.join(root, "public", "images", "logo-mark.png");
 
   await stripBlackBackground(invaderSrc, invaderPng);
-  await cropAndStripLogoMark(logoSrc, logoPng);
 
   // App router icons (favicon + apple touch)
   await resizeSquare(invaderPng, path.join(root, "app", "icon.png"), 512);
@@ -103,8 +98,6 @@ async function main() {
     path.join(root, "public", "web-app-manifest-512x512.png"),
     512,
   );
-  await resizeSquare(logoPng, path.join(root, "public", "logo.png"), 512);
-
   console.log("Brand icons processed with transparent backgrounds.");
 }
 

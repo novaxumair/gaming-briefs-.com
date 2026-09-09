@@ -15,7 +15,7 @@ import type { SpaceWorldEngine } from "@/lib/space-world/SpaceWorldEngine";
 
 const ROUTE_PHASES: Record<string, number> = {
   "/": 0,
-  "/blogs": 0.15,
+  "/articles": 0.15,
   "/reviews": 0.25,
   "/contact": 0.5,
   "/about-us": 0.45,

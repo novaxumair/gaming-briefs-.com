@@ -25,14 +25,21 @@ const nextConfig: NextConfig = {
     optimizePackageImports: ["three", "framer-motion"],
   },
   async redirects() {
+    const legacyGameCheats = [
+      "valorant",
+      "warzone",
+      "destiny-2",
+      "rainbow-six-siege",
+      "sea-of-thieves",
+    ].map((slug) => ({
+      source: `/game-cheats/${slug}`,
+      destination: `/${slug}-cheats`,
+      permanent: true,
+    }));
+
     return [
-      { source: "/articles", destination: "/blogs", permanent: true },
-      { source: "/game-cheats", destination: "/blogs", permanent: true },
-      {
-        source: "/game-cheats/:slug",
-        destination: "/:slug-cheats",
-        permanent: true,
-      },
+      { source: "/game-cheats", destination: "/articles", permanent: true },
+      ...legacyGameCheats,
     ];
   },
 };

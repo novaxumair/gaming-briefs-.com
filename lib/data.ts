@@ -11,18 +11,25 @@ export const SITE = {
     "Get the latest game updates, detailed guides, trending news, and expert tips — all in one place.",
   description:
     "Gaming Briefs is your ultimate gaming article hub for game guides, updates, patch notes, and cheat feature breakdowns. Compare aimbot, ESP, wallhack, and spoofer options by title.",
-  blogsTitle: "Cheat Guides | Gaming Briefs",
-  blogsMainH1: "Gaming Briefs",
-  blogsHeroTagline: "Cheat guides · feature breakdowns · patch status · player picks",
+  blogsTitle: "Informational Blogs | Gaming Briefs",
+  blogsMainH1: "Informational Blogs",
+  blogsHeroTagline: "Guides, trends & ranked integrity",
   blogsHeroLead:
-    "Deep-dive guides for every title in the catalog — see what ships, what changed, and what players are using before you buy.",
+    "Long-form reads across popular titles — meta breakdowns, ranked tips, patch trends, and beginner guides without keyword stuffing.",
   blogsDescription:
+    "Read informational blogs on Valorant, Warzone, Destiny 2, Rainbow Six Siege, Sea of Thieves, and more — ranked integrity, cheat trends, and patch analysis.",
+  articlesTitle: "Cheat Guides | Gaming Briefs",
+  articlesMainH1: "Gaming Briefs",
+  articlesHeroTagline: "Cheat guides · feature breakdowns · patch status · player picks",
+  articlesHeroLead:
+    "Deep-dive guides for every title in the catalog — see what ships, what changed, and what players are using before you buy.",
+  articlesDescription:
     "Browse cheat guides by game with aimbot, ESP, wallhack, and spoofer feature lists, patch notes, and buyer FAQs on Gaming Briefs.",
   contactTitle: "Contact | Gaming Briefs Support",
   twitter: "@gamingbriefs",
   themeColor: "#0a0f0a",
   logo: "/images/favicon-invader.png",
-  logoFull: "/images/favicon-invader.png",
+  logoFull: "https://assets-prd.ignimgs.com/2021/12/21/valorant-1640045685890.jpg",
   logoWidth: 36,
   logoHeight: 36,
   gaId: "G-F3G2WXE227",

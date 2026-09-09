@@ -66,7 +66,8 @@ export default function GycFooter() {
               links={[
                 { href: "/support", label: "Load help & support" },
                 { href: "/", label: "Home" },
-                { href: "/blogs", label: "Cheat guides" },
+                { href: "/blogs", label: "Blogs" },
+                { href: "/articles", label: "Articles" },
                 { href: "/insight", label: "Insights" },
                 { href: "/about-us", label: "About us" },
                 { href: "/fees", label: "Fees" },
@@ -90,7 +91,7 @@ export default function GycFooter() {
             <FooterNav
               title="Guides"
               links={[
-                { href: "/blogs", label: "Cheat guides" },
+                { href: "/articles", label: "Cheat guides" },
                 { href: "/signin", label: "Account sign in" },
                 { href: "/support", label: "Help center" },
               ]}

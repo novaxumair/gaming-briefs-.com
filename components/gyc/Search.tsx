@@ -1,6 +1,6 @@
 "use client";
 
-import { useState } from "react";
+import { useEffect, useState } from "react";
 
 const SEARCH_PLACEHOLDER = "Search articles, guides, game updates...";
 /** Reserve space for Go label + arrow so marquee text never overlaps the button. */
@@ -8,12 +8,18 @@ const GO_BUTTON_INSET = "5.75rem";
 
 export default function GycSearch({
   onSearch,
+  initialQuery = "",
 }: {
   onSearch: (query: string) => void;
+  initialQuery?: string;
 }) {
-  const [value, setValue] = useState("");
+  const [value, setValue] = useState(initialQuery);
   const [focused, setFocused] = useState(false);
   const showMarquee = !value && !focused;
+
+  useEffect(() => {
+    setValue(initialQuery);
+  }, [initialQuery]);
 
   function handleSubmit(e: React.FormEvent) {
     e.preventDefault();

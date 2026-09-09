@@ -12,6 +12,7 @@ import { isSatanoRemoteImage } from "@/lib/gameplay-images";
 
 type Props = {
   guide: Guide;
+  variant?: "full" | "cheats";
 };
 
 function PreviewImage({ src, alt, sizes }: { src: string; alt: string; sizes: string }) {
@@ -41,7 +42,8 @@ function PreviewImage({ src, alt, sizes }: { src: string; alt: string; sizes: st
   );
 }
 
-export default function ArticleGuideHero({ guide }: Props) {
+export default function ArticleGuideHero({ guide, variant = "cheats" }: Props) {
+  const isFull = variant === "full";
   const images = articleGalleryImages(guide);
   const [activeIndex, setActiveIndex] = useState(0);
   const activeImage = images[activeIndex] ?? images[0] ?? null;
@@ -70,8 +72,17 @@ export default function ArticleGuideHero({ guide }: Props) {
         <div className="blog-spotlight-copy">
           <span className="blog-spotlight-badge">{blogSpotlightBadge(guide.gameName)}</span>
           <h1 id="article-spotlight-title" className="blog-spotlight-headline">
-            Best <span className="blog-spotlight-highlight">{guide.gameName} Cheats</span> 2026
-            {" — Undetected & Updated Daily"}
+            {isFull ? (
+              <>
+                <span className="blog-spotlight-highlight">{guide.gameName}</span> Guide 2026
+                {" — Updates, Tips & Meta"}
+              </>
+            ) : (
+              <>
+                Best <span className="blog-spotlight-highlight">{guide.gameName} Cheats</span> 2026
+                {" — Undetected & Updated Daily"}
+              </>
+            )}
           </h1>
           <p className="blog-spotlight-lead">{heroLead}</p>
 
@@ -156,7 +167,9 @@ export default function ArticleGuideHero({ guide }: Props) {
             ) : null}
           </div>
           <p className="blog-spotlight-caption">
-            {guide.gameName} live gameplay — cheat preview
+            {isFull
+              ? `${guide.gameName} guide preview`
+              : `${guide.gameName} live gameplay — cheat preview`}
           </p>
         </div>
       </div>

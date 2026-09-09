@@ -36,7 +36,7 @@ export const staticPages: StaticPageContent[] = [
         "Need help loading a build, reading a feature list, or comparing aimbot and ESP tiers? Start on the ",
         { href: "/", label: "homepage" },
         ", open the guide for your game from the ",
-        { href: "/blogs", label: "cheat guides" },
+        { href: "/articles", label: "cheat guides" },
         ", then ",
         { href: "/contact", label: "contact us" },
         " if the loader or license step fails.",
@@ -53,7 +53,7 @@ export const staticPages: StaticPageContent[] = [
     paragraphs: [
       [
         "Gaming Briefs is a title-by-title ",
-        { href: "/blogs", label: "cheat guides" },
+        { href: "/articles", label: "cheat guides" },
         ". Each page documents aimbot, ESP, wallhack, and spoofer coverage in plain language so buyers can compare features before checkout.",
       ],
       [
@@ -79,7 +79,7 @@ export const staticPages: StaticPageContent[] = [
       ],
       [
         "Bookmark the ",
-        { href: "/blogs", label: "cheat guides" },
+        { href: "/articles", label: "cheat guides" },
         " for the full grid, or return here when you want a quick read on what changed across popular shooters and survival titles.",
       ],
     ],
@@ -93,7 +93,7 @@ export const staticPages: StaticPageContent[] = [
     paragraphs: [
       [
         "Pricing varies by game, build tier, and license length. Each ",
-        { href: "/blogs", label: "product guide" },
+        { href: "/articles", label: "product guide" },
         " lists what the active offer includes so you can compare value before paying.",
       ],
       [
@@ -130,7 +130,7 @@ export const staticPages: StaticPageContent[] = [
     paragraphs: [
       [
         "By using Gaming Briefs you agree to read product status notes on each ",
-        { href: "/blogs", label: "cheat guide" },
+        { href: "/articles", label: "cheat guide" },
         " before every session. Cheat detection status can change after game patches.",
       ],
       "Guides are provided for informational comparison. You are responsible for how you use third-party software and for complying with each game's terms of service.",

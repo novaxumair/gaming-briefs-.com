@@ -21,7 +21,7 @@ export default function NotFound() {
             <Link href="/" className="guide-cta">
               Catalog home
             </Link>
-            <Link href="/blogs" className="guide-cta-ghost">
+            <Link href="/articles" className="guide-cta-ghost">
               Cheat guides
             </Link>
             <Link href="/support" className="guide-cta-ghost">

@@ -76,12 +76,17 @@ function renderParagraph(text: string) {
   });
 }
 
+function normalizeZadeyoUrls(markdown: string, zadeyoUrl?: string): string {
+  if (!zadeyoUrl) return markdown;
+  return markdown.replace(/https:\/\/zadeyo\.com\/go\/[^\s)]+(\?[^\s)]*)?/g, zadeyoUrl);
+}
+
 export default function FeaturedGuideArticleSection({
   guide,
 }: {
   guide: FeaturedGuideArticle;
 }) {
-  const blocks = parseArticleMarkdown(guide.articleMarkdown);
+  const blocks = parseArticleMarkdown(normalizeZadeyoUrls(guide.articleMarkdown, guide.zadeyoUrl));
 
   return (
     <article

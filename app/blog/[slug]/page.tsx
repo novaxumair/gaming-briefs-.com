@@ -39,7 +39,7 @@ export default async function InfoBlogPage({ params }: Props) {
         </Link>
         <span className="mx-2 text-[#4ade80]/40">/</span>
         <Link href="/blogs" className="text-[#86efac]/70 transition hover:text-[#bbf7d0]">
-          Blog
+          Blogs
         </Link>
         <span className="mx-2 text-[#4ade80]/40">/</span>
         <span className="text-[#bbf7d0]/90">{article.gameName}</span>

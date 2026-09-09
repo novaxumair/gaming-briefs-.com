@@ -2,6 +2,7 @@
 
 import { useEffect, useRef, useState } from "react";
 import Image from "next/image";
+import Link from "next/link";
 import { CardStack, CardStackItem } from "@/components/ui/card-stack";
 import { RetroDieGuideText } from "@/components/ui/retro-die-text";
 import { FEATURED_GUIDES } from "@/lib/featured-guides";
@@ -152,8 +153,10 @@ export default function GuideCardStack() {
                 style={{ height: PANEL_HEIGHT }}
               >
                 <div className="flex h-full w-full items-center justify-end px-4 sm:px-6">
-                  <div
-                    className="relative aspect-square shrink-0 overflow-hidden rounded-md border border-[#4ade80]/15 bg-[#0a0f0a]/40"
+                  <Link
+                    href={card.href}
+                    aria-label={`${card.title} guide`}
+                    className="relative aspect-square shrink-0 overflow-hidden rounded-md border border-[#4ade80]/15 bg-[#0a0f0a]/40 transition hover:border-[#4ade80]/35 hover:shadow-[0_0_24px_rgba(74,222,128,0.15)]"
                     style={{
                       width: `min(${IMAGE_SIZE}px, 46vw)`,
                       height: `min(${IMAGE_SIZE}px, 46vw)`,
@@ -171,7 +174,7 @@ export default function GuideCardStack() {
                           "saturate(0.9) contrast(1.05) drop-shadow(0 0 20px rgba(74,222,128,0.18))",
                       }}
                     />
-                  </div>
+                  </Link>
                 </div>
               </CardStackItem>
             ))}

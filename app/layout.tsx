@@ -20,17 +20,10 @@ export const metadata: Metadata = {
   },
   description: SITE.description,
   robots: "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-  alternates: {
-    canonical: homeUrl,
-    languages: {
-      en: homeUrl,
-      "x-default": homeUrl,
-    },
-  },
   icons: {
     icon: [
-      { url: "/images/favicon-invader.png", sizes: "any" },
-      { url: "/icon.png", type: "image/png", sizes: "512x512" },
+      { url: "/images/favicon-invader.png", sizes: "512x512", type: "image/png" },
+      { url: "/favicon-32.png", sizes: "32x32", type: "image/png" },
     ],
     apple: "/apple-icon.png",
   },
@@ -61,11 +54,8 @@ export default function RootLayout({
     <html lang="en" dir="ltr" data-theme="logo" suppressHydrationWarning>
       <head>
         <meta name="theme-color" content="#0a0f0a" />
-        <meta name="description" content={SITE.description} />
-        <link rel="canonical" href={homeUrl} />
-        <link rel="alternate" hrefLang="en" href={homeUrl} />
-        <link rel="alternate" hrefLang="x-default" href={homeUrl} />
-        <link rel="icon" href="/images/favicon-invader.png" type="image/png" />
+        <link rel="icon" href="/favicon-32.png" sizes="32x32" type="image/png" />
+        <link rel="icon" href="/images/favicon-invader.png" sizes="512x512" type="image/png" />
         <link rel="manifest" href="/site.webmanifest" />
       </head>
       <body className={`space-world-site ${siteFontVariables}`}>

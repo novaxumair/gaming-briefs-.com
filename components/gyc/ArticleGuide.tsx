@@ -112,16 +112,16 @@ export default function ArticleGuide({
           <>
             <Link href="/">Catalog home</Link>
             <span>/</span>
-            <Link href="/blogs">Cheat guides</Link>
+            <Link href="/articles">Cheat guides</Link>
             <span>/</span>
             <span>{gameName}</span>
           </>
         )}
       </nav>
 
-      <ArticleGuideHero guide={guide} />
+      <ArticleGuideHero guide={guide} variant={variant} />
 
-      {featuredGuide ? (
+      {featuredGuide && isFull ? (
         <section className="article-guide-body site-container">
           <FeaturedGuideArticleSection guide={featuredGuide} />
         </section>
@@ -428,7 +428,7 @@ export default function ArticleGuide({
             ))}
           </ul>
           <p className="guide-footer-links">
-            <Link href="/blogs">All cheat guides</Link>
+            <Link href="/articles">All cheat guides</Link>
             <span>·</span>
             <Link href="/">Catalog home</Link>
           </p>

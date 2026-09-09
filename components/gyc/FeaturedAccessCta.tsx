@@ -27,7 +27,7 @@ export function FeaturedAccessCta({
 export function HeaderAccessCta({ className = "" }: { className?: string }) {
   if (!isBuyAvailable(FEATURED_ACCESS_SLUG)) {
     return (
-      <BuyLink href="/blogs" className={`access-cta access-cta-nav ${className}`.trim()}>
+      <BuyLink href="/articles" className={`access-cta access-cta-nav ${className}`.trim()}>
         <span className="access-cta-text">Get access</span>
       </BuyLink>
     );

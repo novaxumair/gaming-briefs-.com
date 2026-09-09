@@ -13,6 +13,8 @@ import {
 import { extendedFaqs } from "./guide-content";
 import { siteUrl } from "./site-url";
 
+const CONTENT_UPDATED = "2026-09-08";
+
 export function absoluteUrl(path: string): string {
   if (path.startsWith("http")) return path;
   if (!path || path === "/") return siteUrl("/");
@@ -42,7 +44,7 @@ export function websiteSchema() {
       "@type": "SearchAction",
       target: {
         "@type": "EntryPoint",
-        urlTemplate: `${siteUrl("/")}?q={search_term_string}`,
+        urlTemplate: `${siteUrl("/articles")}?q={search_term_string}`,
       },
       "query-input": "required name=search_term_string",
     },
@@ -101,7 +103,8 @@ export function gameSchema(guide: Guide) {
           logo: { "@type": "ImageObject", url: absoluteUrl(SITE.logo) },
         },
         mainEntityOfPage: url,
-        dateModified: new Date().toISOString().split("T")[0],
+        datePublished: CONTENT_UPDATED,
+        dateModified: CONTENT_UPDATED,
       },
       {
         "@type": "WebPage",
@@ -128,21 +131,9 @@ export function guideSchema(guide: Guide) {
         "@type": "BreadcrumbList",
         itemListElement: [
           { "@type": "ListItem", position: 1, name: "Home", item: siteUrl("/") },
-          { "@type": "ListItem", position: 2, name: "Blogs", item: siteUrl("/blogs") },
+          { "@type": "ListItem", position: 2, name: "Articles", item: siteUrl("/articles") },
           { "@type": "ListItem", position: 3, name: `${guide.gameName} Cheats`, item: url },
         ],
-      },
-      {
-        "@type": "Product",
-        name: title,
-        description,
-        image: absoluteUrl(guide.image),
-        brand: { "@type": "Brand", name: SITE.name },
-        offers: {
-          "@type": "Offer",
-          url,
-          availability: "https://schema.org/InStock",
-        },
       },
       {
         "@type": "Article",
@@ -156,7 +147,8 @@ export function guideSchema(guide: Guide) {
           logo: { "@type": "ImageObject", url: absoluteUrl(SITE.logo) },
         },
         mainEntityOfPage: url,
-        dateModified: new Date().toISOString().split("T")[0],
+        datePublished: CONTENT_UPDATED,
+        dateModified: CONTENT_UPDATED,
       },
       {
         "@type": "FAQPage",

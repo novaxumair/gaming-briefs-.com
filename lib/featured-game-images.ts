@@ -29,7 +29,10 @@ export const FEATURED_GAME_IMAGES: Record<FeaturedGameSlug, string> = {
 };
 
 export function getFeaturedGameImage(slug: string): string | undefined {
-  return FEATURED_GAME_IMAGES[slug as FeaturedGameSlug];
+  if (isFeaturedGameSlug(slug)) {
+    return IGN_GAME_IMAGES[slug];
+  }
+  return undefined;
 }
 
 export function isFeaturedGameSlug(slug: string): slug is FeaturedGameSlug {
